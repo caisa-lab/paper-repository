@@ -1,0 +1,349 @@
+# Lab configuration used by scripts/bibtool.py and the publication browser.
+#
+# [[member]] entries: everyone whose papers count as lab output (see AGENTS.md, "What counts").
+#   name     – canonical display name, exactly as it should appear on the website
+#   aliases  – other spellings found in author lists (accents and punctuation are ignored
+#              automatically, so only add genuinely different variants)
+#   role     – pi | group-leader | postdoc | phd | researcher | master | student-assistant
+#   groups   – "caisa" (CAISA / Data & Language Technologies Lab) and/or "mai-alignment"
+#   status   – current | alumni
+#   since / until – approximate years of lab membership (used to judge which papers count)
+#
+# Sources for the cold start (Sep 2026): caisa-lab.github.io/team, mai-alignment.github.io/team,
+# and the members' Google Scholar profiles. Years marked "approx" are best guesses — please fix.
+
+# ------------------------------------------------------------------ PIs and group leaders
+[[member]]
+name = "Lucie Flek"
+aliases = ["Lucie Flekova", "Lucie Fleková", "L. Flek"]
+role = "pi"
+groups = ["caisa"]
+status = "current"
+since = 2020
+
+[[member]]
+name = "Florian Mai"
+role = "group-leader"
+groups = ["caisa", "mai-alignment"]
+status = "current"
+since = 2024
+
+# ------------------------------------------------------------------ postdocs / researchers
+[[member]]
+name = "Nicholas Kluge Corrêa"
+aliases = ["Nicholas Corrêa", "Nicholas K. Corrêa", "N. K. Corrêa"]
+role = "postdoc"
+groups = ["caisa"]
+status = "current"
+since = 2024  # approx
+
+[[member]]
+name = "Akbar Karimi"
+role = "postdoc"
+groups = ["caisa"]
+status = "current"
+since = 2022  # approx
+
+[[member]]
+name = "Wei-Fan Chen"
+role = "postdoc"
+groups = ["caisa"]
+status = "current"
+since = 2025  # approx
+
+[[member]]
+name = "Lukasz Karwacki"
+aliases = ["Łukasz Karwacki"]
+role = "researcher"
+groups = ["mai-alignment"]
+status = "current"
+since = 2025  # approx
+
+[[member]]
+name = "Charles Welch"
+aliases = ["Charlie Welch", "Charles F. Welch", "Charlie F. Welch"]
+role = "postdoc"
+groups = ["caisa"]
+status = "alumni"
+since = 2020  # approx
+until = 2024  # approx; later papers count only with current members
+
+[[member]]
+name = "Flora Sakketou"
+role = "postdoc"
+groups = ["caisa"]
+status = "alumni"
+since = 2021  # approx
+until = 2023  # approx
+
+[[member]]
+name = "Mounika Marreddy"
+role = "postdoc"
+groups = ["caisa"]
+status = "alumni"
+since = 2024  # approx
+until = 2025  # approx
+
+# ------------------------------------------------------------------ PhD students
+[[member]]
+name = "Christian Nickel"
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "David Kaczér"
+role = "phd"
+groups = ["caisa", "mai-alignment"]
+status = "current"
+since = 2024
+
+[[member]]
+name = "Frederik Labonté"
+aliases = ["Frederik M. Labonté", "Frederik Maximilian Labonté"]
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Lea Fischbach"
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Olufunke Sarumi"
+aliases = ["Olufunke O. Sarumi", "Olufunke Oluyemi Sarumi"]
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Shaina Ashraf"
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Shangrui Nie"
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Vahid Sadiri Javadi"
+aliases = ["Vahid Javadi"]
+role = "phd"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Allison Lahnala"
+aliases = ["Allie Lahnala", "Allison C. Lahnala"]
+role = "phd"
+groups = ["caisa"]
+status = "alumni"
+since = 2021  # approx
+until = 2025  # approx
+
+[[member]]
+name = "Joan Plepi"
+role = "phd"
+groups = ["caisa"]
+status = "alumni"
+since = 2021  # approx
+until = 2024  # approx
+
+[[member]]
+name = "Gisela Vallejo"
+role = "phd"
+groups = ["caisa"]
+status = "alumni"
+
+# ------------------------------------------------------------------ master students & assistants
+[[member]]
+name = "Amirhossein Barari"
+role = "master"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Georgina Kowalski"
+role = "master"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Mahan Akbari Mokhanjoughi"
+role = "master"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Sayantak Karar"
+role = "master"
+groups = ["caisa", "mai-alignment"]
+status = "current"
+
+[[member]]
+name = "Sulaeman Aloradi"
+role = "master"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Zain Ul Abedin"
+role = "master"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Robin Haselhorst"
+role = "student-assistant"
+groups = ["mai-alignment"]
+status = "current"
+
+[[member]]
+name = "Mohammad Faiz"
+role = "student-assistant"
+groups = ["mai-alignment"]
+status = "current"
+
+[[member]]
+name = "Amir Hossein Aliakbarzadeh"
+aliases = ["Amirhossein Aliakbarzadeh"]
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Andreas Schäffler"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Atefeh Soltanifard"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Behnam Fanitabasi"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Béla Neuendorf"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Fabian Lechner"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Farizeh Aldabbas"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Henri-Jacques Geiß"
+aliases = ["Henri Geiß", "Henri-Jacques Geiss", "Henri Jacques Geiss"]
+role = "student-assistant"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Joscha David Zirkelbach"
+aliases = ["Joscha Zirkelbach"]
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Kim Breitwieser"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Lars Wolf"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Liane Vogel"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Mahnaz Mirhaj"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Mohammad Mehdi Balouchi"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Peyman Hasani Jalilian"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Philipp Nothvogel"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Pulkit Arora"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Tamara Liebich"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Ulvi Shukurzade"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+# ------------------------------------------------------------------ topic vocabulary
+# Allowed values for the optional `keywords` field of bib entries (comma-separated ids).
+# Add a new topic here before using it in an entry.
+[topics]
+alignment = "AI alignment & safety"
+robustness = "Robustness & evaluation"
+reasoning = "Reasoning & planning"
+empathy = "Empathy & emotion"
+mental-health = "Mental health"
+health = "Health & biomedical NLP"
+misinformation = "Misinformation, framing & bias"
+social-media = "Social media & computational social science"
+personalization = "Personalization & perspectivism"
+multilingual = "Multilingual & low-resource NLP"
+speech = "Speech & dialects"
+dialogue = "Conversational AI & dialogue"
+agents = "LLM agents & social simulation"
+ethics = "AI ethics & governance"
+language-models = "Language model training & efficiency"
+science = "ML for physics & science"
+generation = "Text generation & style"

@@ -1,0 +1,25 @@
+name: Validate bibliography
+
+on:
+  push:
+    paths: ["bib/**", "lab.toml", "scripts/**", "site/**", ".github/workflows/validate.yml"]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate bib files
+        run: python3 scripts/bibtool.py check
+      - name: Bib files are canonically formatted
+        run: |
+          python3 scripts/bibtool.py fmt
+          git diff --exit-code -- bib || (echo "::error::Run 'python3 scripts/bibtool.py fmt' and commit the result"; exit 1)
+      - name: Generated site is up to date
+        run: |
+          python3 scripts/bibtool.py build
+          git diff --exit-code -- site || (echo "::error::Run 'python3 scripts/bibtool.py build' and commit site/"; exit 1)
