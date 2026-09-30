@@ -7,6 +7,12 @@ The repository is the single source of truth for the publications of the
 **CAISA Lab / Data & Language Technologies (DLT) Lab** at b-it, University of Bonn
 (PI: Lucie Flek), including the **mAI alignment group** (Florian Mai).
 
+**Lab policy:** members add their publications as soon as they are archival, or earlier as a
+preprint. Claude scans for new lab publications once a month and adds them; anything still
+missing must be added by the authors via a pull request. Travel requests are only approved for
+papers listed here. When you run the monthly scan, follow "Adding a publication" below for
+every new paper and upgrade preprints that have since been published.
+
 ## Layout
 
 | Path | What it is |

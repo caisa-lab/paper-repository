@@ -3,6 +3,23 @@
 Keeps track of all our papers: the bibliography of the **CAISA Lab / Data & Language
 Technologies Lab** (b-it, University of Bonn) and its **mAI alignment group**.
 
+**Publication browser: <https://claude.ai/artifact/LJWES5xBbU3q7evbLSYjJb>**
+
+## Every lab member: get your papers in here
+
+Add each of your publications **as soon as it is archival** (accepted at a conference,
+workshop or journal), or even earlier, as soon as the **preprint** is out. When the preprint
+is later published, upgrade the entry to the archival version (see [`AGENTS.md`](AGENTS.md)).
+
+Once a month, Claude scans for new lab publications and adds them automatically. If your
+paper is still missing after that, **add it yourself and open a pull request**: follow
+[`AGENTS.md`](AGENTS.md), or ask a coding agent to do it for you.
+
+> **Travel requests are only approved for papers that are listed in this repository.**
+> Check that your paper is here before you submit a travel request.
+
+## Using the repository
+
 - **Browse it:** <https://claude.ai/artifact/LJWES5xBbU3q7evbLSYjJb> (search, filters, statistics,
   co-authorship, one-click BibTeX). Offline copy: open [`site/index.html`](site/index.html).
 - **Cite from it:** `bib/<year>.bib` — one BibTeX file per year, archival versions preferred
