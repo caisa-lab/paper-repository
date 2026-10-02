@@ -642,6 +642,35 @@
    "bibtex": "@misc{haselhorst2026detecting,\n  title         = {Detecting Hidden Behaviors in {LLMs} via Activation-matched Finetuning},\n  author        = {Haselhorst, Robin and Flek, Lucie and Mai, Florian},\n  year          = {2026},\n  month         = sep,\n  url           = {https://arxiv.org/abs/2609.00351},\n  eprint        = {2609.00351},\n  archivePrefix = {arXiv},\n  keywords      = {alignment},\n  code          = {https://github.com/RobinHaselhorst/activation-matched-finetuning/},\n}"
   },
   {
+   "key": "schott2026learning",
+   "type": "article",
+   "category": "journal",
+   "year": 2026,
+   "month": 9,
+   "title": "Learning Minimal-Deviation Corrections for Multi-Dimensional Mismodelling in HEP Simulations",
+   "authors": [
+    "Matthias Ludwig Schott",
+    "Lucie Flek"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "lucie-flek"
+   ],
+   "venue": "Journal of Instrumentation",
+   "venueShort": "Journal of Instrumentation",
+   "keywords": [
+    "science"
+   ],
+   "links": {
+    "url": "https://doi.org/10.1088/1748-0221/21/09/p09041",
+    "doi": "https://doi.org/10.1088/1748-0221/21/09/p09041",
+    "arxiv": "https://arxiv.org/abs/2605.07460"
+   },
+   "note": "",
+   "bibtex": "@article{schott2026learning,\n  title         = {Learning Minimal-Deviation Corrections for Multi-Dimensional Mismodelling in {HEP} Simulations},\n  author        = {Schott, Matthias Ludwig and Flek, Lucie},\n  journal       = {Journal of Instrumentation},\n  volume        = {21},\n  number        = {09},\n  pages         = {P09041},\n  year          = {2026},\n  month         = sep,\n  publisher     = {IOP Publishing},\n  doi           = {10.1088/1748-0221/21/09/p09041},\n  url           = {https://doi.org/10.1088/1748-0221/21/09/p09041},\n  eprint        = {2605.07460},\n  archivePrefix = {arXiv},\n  keywords      = {science},\n}"
+  },
+  {
    "key": "zeng2026unified",
    "type": "inproceedings",
    "category": "workshop",
@@ -1066,34 +1095,6 @@
    },
    "note": "",
    "bibtex": "@inproceedings{sadirijavadi2026personality,\n  title         = {Personality Anchoring for Social Simulation: Linking Personality, Social Behavior, and Interaction Success with {LLM} Agents},\n  author        = {Sadiri Javadi, Vahid and Aksa, Aksa and Róg, Fryderyk Karol and Flek, Lucie and Trippas, Johanne},\n  booktitle     = {Proceedings of the 1st Workshop on Social Context ({S}o{C}on) and the 2nd Workshop on Integrating {NLP} and Psychology to Study Social Interactions ({NLPSI}) @ {LREC} 2026},\n  pages         = {132--145},\n  year          = {2026},\n  month         = may,\n  address       = {Palma, Mallorca (Spain)},\n  publisher     = {European Language Resources Association (ELRA)},\n  doi           = {10.63317/5b89agzykziz},\n  url           = {https://aclanthology.org/2026.socon-1.13/},\n  eprint        = {2606.06936},\n  archivePrefix = {arXiv},\n  keywords      = {personalization, agents},\n}"
-  },
-  {
-   "key": "schott2026learning",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2026,
-   "month": 5,
-   "title": "Learning Minimal-Deviation Corrections for Multi-Dimensional Mismodelling in HEP Simulations",
-   "authors": [
-    "Matthias Schott",
-    "Lucie Flek"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "lucie-flek"
-   ],
-   "venue": "arXiv",
-   "venueShort": "arXiv",
-   "keywords": [
-    "science"
-   ],
-   "links": {
-    "url": "https://arxiv.org/abs/2605.07460",
-    "arxiv": "https://arxiv.org/abs/2605.07460"
-   },
-   "note": "",
-   "bibtex": "@misc{schott2026learning,\n  title         = {Learning Minimal-Deviation Corrections for Multi-Dimensional Mismodelling in {HEP} Simulations},\n  author        = {Schott, Matthias and Flek, Lucie},\n  year          = {2026},\n  month         = may,\n  url           = {https://arxiv.org/abs/2605.07460},\n  eprint        = {2605.07460},\n  archivePrefix = {arXiv},\n  keywords      = {science},\n}"
   },
   {
    "key": "schott2026transfer",
