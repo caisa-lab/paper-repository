@@ -1,5 +1,5 @@
 {
- "count": 146,
+ "count": 128,
  "topics": {
   "alignment": "AI alignment & safety",
   "robustness": "Robustness & evaluation",
@@ -58,7 +58,7 @@
     "caisa"
    ],
    "status": "current",
-   "since": 2024,
+   "since": 2026,
    "id": "nicholas-kluge-correa"
   },
   {
@@ -1068,36 +1068,6 @@
    "bibtex": "@inproceedings{sadirijavadi2026personality,\n  title         = {Personality Anchoring for Social Simulation: Linking Personality, Social Behavior, and Interaction Success with {LLM} Agents},\n  author        = {Sadiri Javadi, Vahid and Aksa, Aksa and Róg, Fryderyk Karol and Flek, Lucie and Trippas, Johanne},\n  booktitle     = {Proceedings of the 1st Workshop on Social Context ({S}o{C}on) and the 2nd Workshop on Integrating {NLP} and Psychology to Study Social Interactions ({NLPSI}) @ {LREC} 2026},\n  pages         = {132--145},\n  year          = {2026},\n  month         = may,\n  address       = {Palma, Mallorca (Spain)},\n  publisher     = {European Language Resources Association (ELRA)},\n  doi           = {10.63317/5b89agzykziz},\n  url           = {https://aclanthology.org/2026.socon-1.13/},\n  eprint        = {2606.06936},\n  archivePrefix = {arXiv},\n  keywords      = {personalization, agents},\n}"
   },
   {
-   "key": "sarumi2026fine",
-   "type": "inproceedings",
-   "category": "workshop",
-   "year": 2026,
-   "month": 5,
-   "title": "Fine-Grained Perspectives: Modeling Explanations with Annotator-Specific Rationales",
-   "authors": [
-    "Olufunke O. Sarumi",
-    "Charles Welch",
-    "Daniel Braun"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "olufunke-sarumi",
-    "charles-welch"
-   ],
-   "venue": "Proceedings of the the fifth edition of NLPerspectives",
-   "venueShort": "NLPerspectives",
-   "keywords": [
-    "personalization"
-   ],
-   "links": {
-    "url": "https://aclanthology.org/2026.nlperspectives-1.7/",
-    "doi": "https://doi.org/10.63317/4s7kqwvy5i6x"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{sarumi2026fine,\n  title     = {Fine-Grained Perspectives: Modeling Explanations with Annotator-Specific Rationales},\n  author    = {Sarumi, Olufunke O. and Welch, Charles and Braun, Daniel},\n  booktitle = {Proceedings of the the fifth edition of {NLP}erspectives},\n  pages     = {66--75},\n  year      = {2026},\n  month     = may,\n  address   = {Palma, Mallorca (Spain)},\n  publisher = {ELRA Language Resources Association (ELRA)},\n  doi       = {10.63317/4s7kqwvy5i6x},\n  url       = {https://aclanthology.org/2026.nlperspectives-1.7/},\n  keywords  = {personalization},\n}"
-  },
-  {
    "key": "schott2026learning",
    "type": "misc",
    "category": "preprint",
@@ -1652,64 +1622,6 @@
    "bibtex": "@inproceedings{barisschlicht2026zoom,\n  title         = {Zoom In Disparities in Healthcare {LLM} {Q\\&A}},\n  author        = {Baris Schlicht, Ipek and Sayin, Burcu and Zhao, Zhixue and Labonté, Frederik M. and Barbera, Cesare and Viviani, Marco and Rosso, Paolo and Flek, Lucie},\n  booktitle     = {Natural Language Processing and Information Systems: International Conference on Applications of Natural Language to Information Systems (NLDB 2026)},\n  year          = {2026},\n  publisher     = {Springer},\n  series        = {Lecture Notes in Computer Science},\n  doi           = {10.1007/978-3-032-29532-3_12},\n  eprint        = {2510.17476},\n  archivePrefix = {arXiv},\n  keywords      = {health},\n}"
   },
   {
-   "key": "correa2026normative",
-   "type": "book",
-   "category": "book",
-   "year": 2026,
-   "month": 0,
-   "title": "Normative Ethics, Artificial Intelligence, and Value Alignment: From Normative Theory to Engineering Practices",
-   "authors": [
-    "Nicholas Kluge Corrêa"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "Springer Cham",
-   "venueShort": "Book",
-   "keywords": [
-    "alignment",
-    "ethics"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.1007/978-3-032-22150-6"
-   },
-   "note": "",
-   "bibtex": "@book{correa2026normative,\n  title     = {Normative Ethics, Artificial Intelligence, and Value Alignment: From Normative Theory to Engineering Practices},\n  author    = {Corrêa, Nicholas Kluge},\n  year      = {2026},\n  publisher = {Springer Cham},\n  series    = {The International Library of Ethics, Law and Technology},\n  isbn      = {978-3-032-22149-0},\n  doi       = {10.1007/978-3-032-22150-6},\n  keywords  = {alignment, ethics},\n}"
-  },
-  {
-   "key": "falk2026computation",
-   "type": "article",
-   "category": "journal",
-   "year": 2026,
-   "month": 0,
-   "title": "From Computation to Environmental Cost: The Resource Burden of Artificial Intelligence",
-   "authors": [
-    "Sophia Falk",
-    "Nicholas Kluge Corrêa",
-    "Sasha Luccioni",
-    "Lisa Biber-Freudenberger",
-    "Aimee van Wynsberghe"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "Communications Earth & Environment",
-   "venueShort": "Commun. Earth Environ.",
-   "keywords": [
-    "ethics"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.1038/s43247-026-03537-5",
-    "arxiv": "https://arxiv.org/abs/2512.04142"
-   },
-   "note": "",
-   "bibtex": "@article{falk2026computation,\n  title         = {From Computation to Environmental Cost: The Resource Burden of Artificial Intelligence},\n  author        = {Falk, Sophia and Kluge Corrêa, Nicholas and Luccioni, Sasha and Biber-Freudenberger, Lisa and van Wynsberghe, Aimee},\n  journal       = {Communications Earth \\& Environment},\n  volume        = {7},\n  pages         = {397},\n  year          = {2026},\n  doi           = {10.1038/s43247-026-03537-5},\n  eprint        = {2512.04142},\n  archivePrefix = {arXiv},\n  keywords      = {ethics},\n}"
-  },
-  {
    "key": "fischbach2026dime",
    "type": "inproceedings",
    "category": "conference",
@@ -1811,34 +1723,6 @@
    },
    "note": "",
    "bibtex": "@article{flek2026uncovering,\n  title         = {Uncovering Hidden Systematics in Neural Network Models for High Energy Physics},\n  author        = {Flek, Lucie and Jung, Philipp Alexander and Karimi, Akbar and Saala, Timo and Schmidt, Alexander and Schott, Matthias and Soldin, Philipp and Wiebusch, Christopher and Willemsen, Ulrich},\n  journal       = {Journal of Physics G: Nuclear and Particle Physics},\n  year          = {2026},\n  eprint        = {2605.07470},\n  archivePrefix = {arXiv},\n  keywords      = {robustness, science},\n}"
-  },
-  {
-   "key": "klugecorrea2026standardization",
-   "type": "book",
-   "category": "book",
-   "year": 2026,
-   "month": 0,
-   "title": "Standardization of AI Ethics: Stakeholders, Values and Profit",
-   "authors": [],
-   "editors": [
-    "Nicholas Kluge Corrêa",
-    "Julia Maria Mönig"
-   ],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "transcript Verlag",
-   "venueShort": "Book",
-   "keywords": [
-    "alignment",
-    "ethics"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.14361/9783839478431"
-   },
-   "note": "Edited volume, open access (CC BY-SA 4.0)",
-   "bibtex": "@book{klugecorrea2026standardization,\n  title     = {Standardization of {AI} Ethics: Stakeholders, Values and Profit},\n  editor    = {Kluge Corrêa, Nicholas and Mönig, Julia Maria},\n  year      = {2026},\n  address   = {Bielefeld},\n  publisher = {transcript Verlag},\n  isbn      = {978-3-8376-8241-0},\n  doi       = {10.14361/9783839478431},\n  note      = {Edited volume, open access (CC BY-SA 4.0)},\n  keywords  = {alignment, ethics},\n}"
   },
   {
    "key": "kurz2026limitations",
@@ -2184,69 +2068,6 @@
    "bibtex": "@inproceedings{lahnala2025practical,\n  title         = {The Practical Impacts of Theoretical Constructs on Empathy Modeling},\n  author        = {Lahnala, Allison and Welch, Charles and Jurgens, David and Flek, Lucie},\n  booktitle     = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},\n  pages         = {15559--15586},\n  year          = {2025},\n  month         = nov,\n  address       = {Suzhou, China},\n  publisher     = {Association for Computational Linguistics},\n  doi           = {10.18653/v1/2025.emnlp-main.785},\n  url           = {https://aclanthology.org/2025.emnlp-main.785/},\n  eprint        = {2501.14981},\n  archivePrefix = {arXiv},\n  keywords      = {empathy},\n}"
   },
   {
-   "key": "sarumi2025nlp",
-   "type": "inproceedings",
-   "category": "workshop",
-   "year": 2025,
-   "month": 11,
-   "title": "NLP-ResTeam at LeWiDi-2025:Performance Shifts in Perspective Aware Models based on Evaluation Metrics",
-   "authors": [
-    "Olufunke O. Sarumi",
-    "Charles Welch",
-    "Daniel Braun"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "olufunke-sarumi",
-    "charles-welch"
-   ],
-   "venue": "Proceedings of the The 4th Workshop on Perspectivist Approaches to NLP",
-   "venueShort": "NLPerspectives",
-   "keywords": [
-    "robustness"
-   ],
-   "links": {
-    "url": "https://aclanthology.org/2025.nlperspectives-1.19/",
-    "doi": "https://doi.org/10.18653/v1/2025.nlperspectives-1.19"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{sarumi2025nlp,\n  title     = {{NLP}-{R}es{T}eam at {L}e{W}i{D}i-2025:Performance Shifts in Perspective Aware Models based on Evaluation Metrics},\n  author    = {Sarumi, Olufunke O. and Welch, Charles and Braun, Daniel},\n  booktitle = {Proceedings of the The 4th Workshop on Perspectivist Approaches to NLP},\n  pages     = {219--227},\n  year      = {2025},\n  month     = nov,\n  address   = {Suzhou, China},\n  publisher = {Association for Computational Linguistics},\n  doi       = {10.18653/v1/2025.nlperspectives-1.19},\n  url       = {https://aclanthology.org/2025.nlperspectives-1.19/},\n  keywords  = {robustness},\n}"
-  },
-  {
-   "key": "chang2025global",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2025,
-   "month": 10,
-   "title": "Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures",
-   "authors": [
-    "Tyler A. Chang",
-    "Catherine Arnett",
-    "others"
-   ],
-   "editors": [],
-   "labAuthors": [
-    "Nicholas Kluge Corrêa"
-   ],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "arXiv",
-   "venueShort": "arXiv",
-   "keywords": [
-    "robustness",
-    "reasoning",
-    "multilingual"
-   ],
-   "links": {
-    "url": "https://arxiv.org/abs/2510.24081",
-    "arxiv": "https://arxiv.org/abs/2510.24081"
-   },
-   "note": "Participatory benchmark with 335 contributing researchers",
-   "bibtex": "@misc{chang2025global,\n  title         = {Global {PIQA}: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures},\n  author        = {Chang, Tyler A. and Arnett, Catherine and others},\n  year          = {2025},\n  month         = oct,\n  url           = {https://arxiv.org/abs/2510.24081},\n  eprint        = {2510.24081},\n  archivePrefix = {arXiv},\n  note          = {Participatory benchmark with 335 contributing researchers},\n  keywords      = {robustness, reasoning, multilingual},\n  lab-authors   = {Corrêa, Nicholas Kluge},\n}"
-  },
-  {
    "key": "flek2025inlg",
    "type": "proceedings",
    "category": "proceedings",
@@ -2393,36 +2214,6 @@
    },
    "note": "",
    "bibtex": "@inproceedings{sadirijavadi2025stories,\n  title         = {Can Stories Help {LLM}s Reason? Curating Information Space Through Narrative},\n  author        = {Sadiri Javadi, Vahid and Trippas, Johanne and Lal, Yash Kumar and Flek, Lucie},\n  booktitle     = {Proceedings of the 2nd Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II)},\n  pages         = {92--107},\n  year          = {2025},\n  month         = aug,\n  address       = {Vienna, Austria},\n  publisher     = {Association for Computational Linguistics},\n  doi           = {10.18653/v1/2025.analogyangle-1.8},\n  url           = {https://aclanthology.org/2025.analogyangle-1.8/},\n  eprint        = {2410.19221},\n  archivePrefix = {arXiv},\n  keywords      = {reasoning},\n}"
-  },
-  {
-   "key": "sarumi2025impact",
-   "type": "inproceedings",
-   "category": "conference",
-   "year": 2025,
-   "month": 8,
-   "title": "The Impact of Annotator Personas on LLM Behavior Across the Perspectivism Spectrum",
-   "authors": [
-    "Olufunke O. Sarumi",
-    "Charles Welch",
-    "Daniel Braun",
-    "Jörg Schlötterer"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "olufunke-sarumi",
-    "charles-welch"
-   ],
-   "venue": "Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025)",
-   "venueShort": "ICNLSP",
-   "keywords": [
-    "personalization"
-   ],
-   "links": {
-    "url": "https://aclanthology.org/2025.icnlsp-1.14/"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{sarumi2025impact,\n  title     = {The Impact of Annotator Personas on {LLM} Behavior Across the Perspectivism Spectrum},\n  author    = {Sarumi, Olufunke O. and Welch, Charles and Braun, Daniel and Schlötterer, Jörg},\n  booktitle = {Proceedings of the 8th International Conference on Natural Language and Speech Processing (ICNLSP-2025)},\n  pages     = {121--136},\n  year      = {2025},\n  month     = aug,\n  address   = {Southern Denmark University, Odense, Denmark},\n  publisher = {Association for Computational Linguistics},\n  url       = {https://aclanthology.org/2025.icnlsp-1.14/},\n  keywords  = {personalization},\n}"
   },
   {
    "key": "ulabedin2025arithmattack",
@@ -3027,70 +2818,6 @@
    "bibtex": "@inproceedings{barisschlicht2025llms,\n  title     = {Do {LLMs} Provide Consistent Answers to Health-Related Questions across Languages?},\n  author    = {Baris Schlicht, Ipek and Zhao, Zhixue and Sayin, Burcu and Flek, Lucie and Rosso, Paolo},\n  booktitle = {Advances in Information Retrieval: 47th European Conference on Information Retrieval, ECIR 2025},\n  pages     = {314--322},\n  year      = {2025},\n  publisher = {Springer},\n  series    = {Lecture Notes in Computer Science},\n  doi       = {10.1007/978-3-031-88714-7_30},\n  keywords  = {robustness, health, multilingual},\n}"
   },
   {
-   "key": "correa2025crossing",
-   "type": "article",
-   "category": "journal",
-   "year": 2025,
-   "month": 0,
-   "title": "Crossing the Principle–Practice Gap in AI Ethics with Ethical Problem-Solving",
-   "authors": [
-    "Nicholas Kluge Corrêa",
-    "James William Santos",
-    "Camila Galvão",
-    "Marcelo Pasetti",
-    "Dieine Schiavon",
-    "Faizah Naqvi",
-    "Robayet Hossain",
-    "Nythamar De Oliveira"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "AI and Ethics",
-   "venueShort": "AI and Ethics",
-   "keywords": [
-    "ethics"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.1007/s43681-024-00469-8"
-   },
-   "note": "",
-   "bibtex": "@article{correa2025crossing,\n  title     = {Crossing the Principle--Practice Gap in {AI} Ethics with Ethical Problem-Solving},\n  author    = {Corrêa, Nicholas Kluge and Santos, James William and Galvão, Camila and Pasetti, Marcelo and Schiavon, Dieine and Naqvi, Faizah and Hossain, Robayet and De Oliveira, Nythamar},\n  journal   = {AI and Ethics},\n  volume    = {5},\n  number    = {2},\n  pages     = {1271--1288},\n  year      = {2025},\n  publisher = {Springer},\n  doi       = {10.1007/s43681-024-00469-8},\n  keywords  = {ethics},\n}"
-  },
-  {
-   "key": "correa2025tucano",
-   "type": "article",
-   "category": "journal",
-   "year": 2025,
-   "month": 0,
-   "title": "Tucano: Advancing Neural Text Generation for Portuguese",
-   "authors": [
-    "Nicholas Kluge Corrêa",
-    "Aniket Sen",
-    "Sophia Falk",
-    "Shiza Fatimah"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "Patterns",
-   "venueShort": "Patterns",
-   "keywords": [
-    "multilingual",
-    "language-models",
-    "generation"
-   ],
-   "links": {
-    "url": "https://www.sciencedirect.com/science/article/pii/S2666389925001734"
-   },
-   "note": "",
-   "bibtex": "@article{correa2025tucano,\n  title     = {Tucano: Advancing Neural Text Generation for {Portuguese}},\n  author    = {Corrêa, Nicholas Kluge and Sen, Aniket and Falk, Sophia and Fatimah, Shiza},\n  journal   = {Patterns},\n  volume    = {6},\n  number    = {11},\n  year      = {2025},\n  publisher = {Elsevier},\n  url       = {https://www.sciencedirect.com/science/article/pii/S2666389925001734},\n  keywords  = {multilingual, language-models, generation},\n}"
-  },
-  {
    "key": "fischbach2025improving",
    "type": "inproceedings",
    "category": "conference",
@@ -3159,38 +2886,6 @@
    "bibtex": "@article{flek2025enforcing,\n  title         = {Enforcing Fundamental Relations via Adversarial Attacks on Input Parameter Correlations},\n  author        = {Flek, Lucie and Jung, Philipp Alexander and Karimi, Akbar and Saala, Timo and Schmidt, Alexander and Schott, Matthias and Soldin, Philipp and Wiebusch, Christopher},\n  journal       = {Computing and Software for Big Science},\n  volume        = {9},\n  number        = {1},\n  pages         = {19},\n  year          = {2025},\n  doi           = {10.1007/s41781-025-00148-1},\n  eprint        = {2501.05588},\n  archivePrefix = {arXiv},\n  keywords      = {robustness},\n}"
   },
   {
-   "key": "klugecorrea2025codes",
-   "type": "article",
-   "category": "journal",
-   "year": 2025,
-   "month": 0,
-   "title": "Codes of Ethics in IT: Do They Work in Isolation?",
-   "authors": [
-    "Nicholas Kluge Corrêa",
-    "James William Santos",
-    "Éderson de Almeida",
-    "Marcelo Pasetti",
-    "Dieine Schiavon",
-    "Mateus Panizzon",
-    "Nythamar de Oliveira"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "AI and Ethics",
-   "venueShort": "AI and Ethics",
-   "keywords": [
-    "ethics"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.1007/s43681-025-00744-2"
-   },
-   "note": "",
-   "bibtex": "@article{klugecorrea2025codes,\n  title     = {Codes of Ethics in {IT}: Do They Work in Isolation?},\n  author    = {Kluge Corrêa, Nicholas and William Santos, James and de Almeida, Éderson and Pasetti, Marcelo and Schiavon, Dieine and Panizzon, Mateus and de Oliveira, Nythamar},\n  journal   = {AI and Ethics},\n  volume    = {5},\n  number    = {4},\n  pages     = {4337--4349},\n  year      = {2025},\n  publisher = {Springer},\n  doi       = {10.1007/s43681-025-00744-2},\n  keywords  = {ethics},\n}"
-  },
-  {
    "key": "labonte2025constructing",
    "type": "inproceedings",
    "category": "workshop",
@@ -3218,36 +2913,6 @@
    },
    "note": "",
    "bibtex": "@inproceedings{labonte2025constructing,\n  title     = {Constructing {CCEE}: An {LLM} Evaluation Dataset for Complex Context-aware Event Extraction for Gene Regulatory Networks},\n  author    = {Labonté, Frederik and Flek, Lucie},\n  booktitle = {Proceedings of the 8th Workshop on Semantic Web Solutions for Large-Scale Biomedical Data Analytics (SeWeBMeDA 2025)},\n  volume    = {4001},\n  year      = {2025},\n  series    = {CEUR Workshop Proceedings},\n  url       = {https://ceur-ws.org/Vol-4001/paper2.pdf},\n  keywords  = {robustness, health},\n}"
-  },
-  {
-   "key": "pasetti2025technical",
-   "type": "article",
-   "category": "journal",
-   "year": 2025,
-   "month": 0,
-   "title": "Technical, Legal, and Ethical Challenges of Generative Artificial Intelligence: An Analysis of the Governance of Training Data and Copyrights",
-   "authors": [
-    "Marcelo Pasetti",
-    "James William Santos",
-    "Nicholas Kluge Corrêa",
-    "Nythamar de Oliveira",
-    "Camila Palhares Barbosa"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "Discover Artificial Intelligence",
-   "venueShort": "Discover AI",
-   "keywords": [
-    "ethics"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.1007/s44163-025-00379-6"
-   },
-   "note": "",
-   "bibtex": "@article{pasetti2025technical,\n  title     = {Technical, Legal, and Ethical Challenges of Generative Artificial Intelligence: An Analysis of the Governance of Training Data and Copyrights},\n  author    = {Pasetti, Marcelo and Santos, James William and Corrêa, Nicholas Kluge and de Oliveira, Nythamar and Barbosa, Camila Palhares},\n  journal   = {Discover Artificial Intelligence},\n  volume    = {5},\n  number    = {1},\n  pages     = {193},\n  year      = {2025},\n  publisher = {Springer},\n  doi       = {10.1007/s44163-025-00379-6},\n  keywords  = {ethics},\n}"
   },
   {
    "key": "aliakbarzadeh2024exploring",
@@ -3279,66 +2944,6 @@
    },
    "note": "",
    "bibtex": "@inproceedings{aliakbarzadeh2024exploring,\n  title     = {Exploring Robustness of Multilingual {LLMs} on Real-World Noisy Data},\n  author    = {Aliakbarzadeh, Amirhossein and Flek, Lucie and Karimi, Akbar},\n  booktitle = {Eighth Widening NLP Workshop (WiNLP 2024) Phase II},\n  year      = {2024},\n  month     = nov,\n  url       = {https://akkarimi.github.io/publications/},\n  keywords  = {robustness, multilingual},\n}"
-  },
-  {
-   "key": "mai2024improving",
-   "type": "inproceedings",
-   "category": "workshop",
-   "year": 2024,
-   "month": 11,
-   "title": "Improving Language Modeling by Increasing Test-time Planning Compute",
-   "authors": [
-    "Florian Mai",
-    "Nathan Cornille",
-    "Marie-Francine Moens"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "florian-mai"
-   ],
-   "venue": "Eighth Widening NLP Workshop (WiNLP 2024) Phase II",
-   "venueShort": "WiNLP",
-   "keywords": [
-    "reasoning",
-    "language-models"
-   ],
-   "links": {
-    "url": "https://openreview.net/forum?id=S3yyjW9OSY",
-    "arxiv": "https://arxiv.org/abs/2409.00070"
-   },
-   "note": "Extended version of arXiv:2409.00070 (Learning to Plan Long-Term for Language Modeling)",
-   "bibtex": "@inproceedings{mai2024improving,\n  title         = {Improving Language Modeling by Increasing Test-time Planning Compute},\n  author        = {Mai, Florian and Cornille, Nathan and Moens, Marie-Francine},\n  booktitle     = {Eighth Widening NLP Workshop (WiNLP 2024) Phase II},\n  year          = {2024},\n  month         = nov,\n  url           = {https://openreview.net/forum?id=S3yyjW9OSY},\n  eprint        = {2409.00070},\n  archivePrefix = {arXiv},\n  note          = {Extended version of arXiv:2409.00070 (Learning to Plan Long-Term for Language Modeling)},\n  abbr          = {WiNLP},\n  keywords      = {reasoning, language-models},\n}"
-  },
-  {
-   "key": "cornille2024learning",
-   "type": "inproceedings",
-   "category": "conference",
-   "year": 2024,
-   "month": 10,
-   "title": "Learning to Plan for Language Modeling from Unlabeled Data",
-   "authors": [
-    "Nathan Cornille",
-    "Marie-Francine Moens",
-    "Florian Mai"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "florian-mai"
-   ],
-   "venue": "First Conference on Language Modeling",
-   "venueShort": "COLM",
-   "keywords": [
-    "reasoning",
-    "language-models"
-   ],
-   "links": {
-    "url": "https://openreview.net/forum?id=nT6fQIidrQ",
-    "arxiv": "https://arxiv.org/abs/2404.00614"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{cornille2024learning,\n  title         = {Learning to Plan for Language Modeling from Unlabeled Data},\n  author        = {Cornille, Nathan and Moens, Marie-Francine and Mai, Florian},\n  booktitle     = {First Conference on Language Modeling},\n  year          = {2024},\n  month         = oct,\n  url           = {https://openreview.net/forum?id=nT6fQIidrQ},\n  eprint        = {2404.00614},\n  archivePrefix = {arXiv},\n  abbr          = {COLM},\n  keywords      = {reasoning, language-models},\n}"
   },
   {
    "key": "debnath2024examination",
@@ -3487,62 +3092,6 @@
    },
    "note": "",
    "bibtex": "@article{burton2024large,\n  title    = {How Large Language Models Can Reshape Collective Intelligence},\n  author   = {Burton, Jason W. and Lopez-Lopez, Ezequiel and Hechtlinger, Shahar and Rahwan, Zoe and Aeschbach, Samuel and Bakker, Michiel A. and Becker, Joshua A. and Berditchevskaia, Aleks and Berger, Julian and Brinkmann, Levin and Flek, Lucie and Herzog, Stefan M. and Huang, Saffron and Kapoor, Sayash and Narayanan, Arvind and Nussberger, Anne-Marie and Yasseri, Taha and Nickl, Pietro and Almaatouq, Abdullah and Hahn, Ulrike and Kurvers, Ralf H. J. M. and Leavy, Susan and Rahwan, Iyad and Siddarth, Divya and Siu, Alice and Woolley, Anita W. and Wulff, Dirk U. and Hertwig, Ralph},\n  journal  = {Nature Human Behaviour},\n  volume   = {8},\n  number   = {9},\n  pages    = {1643--1655},\n  year     = {2024},\n  month    = sep,\n  doi      = {10.1038/s41562-024-01959-9},\n  keywords = {social-media, language-models},\n}"
-  },
-  {
-   "key": "correa2024catalog",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2024,
-   "month": 8,
-   "title": "Catalog of General Ethical Requirements for AI Certification",
-   "authors": [
-    "Nicholas Kluge Corrêa",
-    "Julia Maria Mönig"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "arXiv",
-   "venueShort": "arXiv",
-   "keywords": [
-    "ethics"
-   ],
-   "links": {
-    "url": "https://arxiv.org/abs/2408.12289",
-    "arxiv": "https://arxiv.org/abs/2408.12289"
-   },
-   "note": "",
-   "bibtex": "@misc{correa2024catalog,\n  title         = {Catalog of General Ethical Requirements for {AI} Certification},\n  author        = {Corrêa, Nicholas Kluge and Mönig, Julia Maria},\n  year          = {2024},\n  month         = aug,\n  url           = {https://arxiv.org/abs/2408.12289},\n  eprint        = {2408.12289},\n  archivePrefix = {arXiv},\n  keywords      = {ethics},\n}"
-  },
-  {
-   "key": "fischbach2024comparative",
-   "type": "inproceedings",
-   "category": "workshop",
-   "year": 2024,
-   "month": 8,
-   "title": "A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for German Dialectal Speech",
-   "authors": [
-    "Lea Fischbach"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "lea-fischbach"
-   ],
-   "venue": "Proceedings of the Third Workshop on NLP Applications to Field Linguistics",
-   "venueShort": "FieldMatters",
-   "keywords": [
-    "multilingual",
-    "speech"
-   ],
-   "links": {
-    "url": "https://aclanthology.org/2024.fieldmatters-1.6/",
-    "doi": "https://doi.org/10.18653/v1/2024.fieldmatters-1.6"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{fischbach2024comparative,\n  title     = {A Comparative Analysis of Speaker Diarization Models: Creating a Dataset for {G}erman Dialectal Speech},\n  author    = {Fischbach, Lea},\n  booktitle = {Proceedings of the Third Workshop on NLP Applications to Field Linguistics},\n  pages     = {43--51},\n  year      = {2024},\n  month     = aug,\n  address   = {Bangkok, Thailand},\n  publisher = {Association for Computational Linguistics},\n  doi       = {10.18653/v1/2024.fieldmatters-1.6},\n  url       = {https://aclanthology.org/2024.fieldmatters-1.6/},\n  keywords  = {multilingual, speech},\n}"
   },
   {
    "key": "nie2024multilingual",
@@ -4025,64 +3574,6 @@
    },
    "note": "",
    "bibtex": "@misc{bucur2024vanishing,\n  title        = {Vanishing Boundaries: A Unifying Account of Multidimensional Emotion Dynamics and Alterations in Depression},\n  author       = {Bucur, Ana-Maria and Koosha, Tahmineh A. and Cosma, Adrian and Flek, Lucie and Thanarajah, Sharmili E. and Bernhard, Felix and Rosso, Paolo and Jamalabadi, Hamidreza},\n  year         = {2024},\n  howpublished = {PsyArXiv preprint},\n  url          = {https://osf.io/preprints/psyarxiv/p6923},\n  keywords     = {empathy, mental-health},\n}"
-  },
-  {
-   "key": "correa2024dynamic",
-   "type": "phdthesis",
-   "category": "thesis",
-   "year": 2024,
-   "month": 0,
-   "title": "Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment",
-   "authors": [
-    "Nicholas Kluge Corrêa"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "Rheinische Friedrich-Wilhelms-Universität Bonn and Pontifícia Universidade Católica do Rio Grande do Sul",
-   "venueShort": "PhD thesis",
-   "keywords": [
-    "alignment"
-   ],
-   "links": {
-    "url": "https://hdl.handle.net/20.500.11811/11595",
-    "arxiv": "https://arxiv.org/abs/2406.11039"
-   },
-   "note": "",
-   "bibtex": "@phdthesis{correa2024dynamic,\n  title         = {Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment},\n  author        = {Corrêa, Nicholas Kluge},\n  year          = {2024},\n  school        = {Rheinische Friedrich-Wilhelms-Universität Bonn and Pontifícia Universidade Católica do Rio Grande do Sul},\n  url           = {https://hdl.handle.net/20.500.11811/11595},\n  eprint        = {2406.11039},\n  archivePrefix = {arXiv},\n  keywords      = {alignment},\n}"
-  },
-  {
-   "key": "correa2024teenytinyllama",
-   "type": "article",
-   "category": "journal",
-   "year": 2024,
-   "month": 0,
-   "title": "TeenyTinyLlama: Open-Source Tiny Language Models Trained in Brazilian Portuguese",
-   "authors": [
-    "Nicholas Kluge Corrêa",
-    "Sophia Falk",
-    "Shiza Fatimah",
-    "Aniket Sen",
-    "Nythamar De Oliveira"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "nicholas-kluge-correa"
-   ],
-   "venue": "Machine Learning with Applications",
-   "venueShort": "MLWA",
-   "keywords": [
-    "multilingual",
-    "language-models"
-   ],
-   "links": {
-    "doi": "https://doi.org/10.1016/j.mlwa.2024.100558"
-   },
-   "note": "",
-   "bibtex": "@article{correa2024teenytinyllama,\n  title     = {{TeenyTinyLlama}: Open-Source Tiny Language Models Trained in {Brazilian Portuguese}},\n  author    = {Corrêa, Nicholas Kluge and Falk, Sophia and Fatimah, Shiza and Sen, Aniket and De Oliveira, Nythamar},\n  journal   = {Machine Learning with Applications},\n  volume    = {16},\n  pages     = {100558},\n  year      = {2024},\n  publisher = {Elsevier},\n  doi       = {10.1016/j.mlwa.2024.100558},\n  keywords  = {multilingual, language-models},\n}"
   },
   {
    "key": "sadirijavadi2024unveiling",
@@ -5099,42 +4590,6 @@
    },
    "note": "",
    "bibtex": "@misc{breitwieser2021modeling,\n  title         = {Modeling Proficiency with Implicit User Representations},\n  author        = {Breitwieser, Kim and Lahnala, Allison and Welch, Charles and Flek, Lucie and Potthast, Martin},\n  year          = {2021},\n  month         = oct,\n  url           = {https://arxiv.org/abs/2110.08011},\n  eprint        = {2110.08011},\n  archivePrefix = {arXiv},\n  keywords      = {personalization},\n}"
-  },
-  {
-   "key": "lahnala2021exploring",
-   "type": "inproceedings",
-   "category": "conference",
-   "year": 2021,
-   "month": 8,
-   "title": "Exploring Self-Identified Counseling Expertise in Online Support Forums",
-   "authors": [
-    "Allison Lahnala",
-    "Yuntian Zhao",
-    "Charles Welch",
-    "Jonathan K. Kummerfeld",
-    "Lawrence C An",
-    "Kenneth Resnicow",
-    "Rada Mihalcea",
-    "Verónica Pérez-Rosas"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "allison-lahnala",
-    "charles-welch"
-   ],
-   "venue": "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
-   "venueShort": "Findings ACL",
-   "keywords": [
-    "mental-health",
-    "social-media"
-   ],
-   "links": {
-    "url": "https://aclanthology.org/2021.findings-acl.392/",
-    "doi": "https://doi.org/10.18653/v1/2021.findings-acl.392"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{lahnala2021exploring,\n  title     = {Exploring Self-Identified Counseling Expertise in Online Support Forums},\n  author    = {Lahnala, Allison and Zhao, Yuntian and Welch, Charles and Kummerfeld, Jonathan K. and An, Lawrence C and Resnicow, Kenneth and Mihalcea, Rada and Pérez-Rosas, Verónica},\n  booktitle = {Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021},\n  pages     = {4467--4480},\n  year      = {2021},\n  month     = aug,\n  address   = {Online},\n  publisher = {Association for Computational Linguistics},\n  doi       = {10.18653/v1/2021.findings-acl.392},\n  url       = {https://aclanthology.org/2021.findings-acl.392/},\n  keywords  = {mental-health, social-media},\n}"
   },
   {
    "key": "sawhney2021suicide",

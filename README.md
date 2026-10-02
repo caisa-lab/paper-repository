@@ -11,7 +11,7 @@ Add each of your publications **as soon as it is archival** (accepted at a confe
 workshop or journal), or even earlier, as soon as the **preprint** is out. When the preprint
 is later published, upgrade the entry to the archival version (see [`AGENTS.md`](AGENTS.md)).
 
-Once a month, Claude scans for new lab publications and adds them automatically. If your
+Every week, Claude scans for new lab publications and adds them automatically. If your
 paper is still missing after that, **add it yourself and open a pull request**: follow
 [`AGENTS.md`](AGENTS.md), or ask a coding agent to do it for you.
 
