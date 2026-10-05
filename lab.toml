@@ -162,6 +162,20 @@ status = "alumni"
 
 # ------------------------------------------------------------------ master students & assistants
 [[member]]
+name = "Shivam Rawat"
+role = "master"  # role unverified
+groups = ["caisa"]
+status = "current"
+since = 2025  # approx
+
+[[member]]
+name = "Shiza Fatimah"
+role = "master"  # role unverified
+groups = ["caisa"]
+status = "current"
+since = 2026  # approx
+
+[[member]]
 name = "Amirhossein Barari"
 role = "master"
 groups = ["caisa"]
@@ -241,21 +255,8 @@ groups = ["caisa"]
 status = "alumni"
 
 [[member]]
-name = "Fabian Lechner"
-role = "master"
-groups = ["caisa"]
-status = "alumni"
-
-[[member]]
 name = "Farizeh Aldabbas"
 role = "master"
-groups = ["caisa"]
-status = "alumni"
-
-[[member]]
-name = "Henri-Jacques Geiß"
-aliases = ["Henri Geiß", "Henri-Jacques Geiss", "Henri Jacques Geiss"]
-role = "student-assistant"
 groups = ["caisa"]
 status = "alumni"
 
@@ -274,12 +275,6 @@ status = "alumni"
 
 [[member]]
 name = "Lars Wolf"
-role = "master"
-groups = ["caisa"]
-status = "alumni"
-
-[[member]]
-name = "Liane Vogel"
 role = "master"
 groups = ["caisa"]
 status = "alumni"
