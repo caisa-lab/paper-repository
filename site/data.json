@@ -1,5 +1,5 @@
 {
- "count": 128,
+ "count": 129,
  "topics": {
   "alignment": "AI alignment & safety",
   "robustness": "Robustness & evaluation",
@@ -669,6 +669,38 @@
    },
    "note": "",
    "bibtex": "@article{schott2026learning,\n  title         = {Learning Minimal-Deviation Corrections for Multi-Dimensional Mismodelling in {HEP} Simulations},\n  author        = {Schott, Matthias Ludwig and Flek, Lucie},\n  journal       = {Journal of Instrumentation},\n  volume        = {21},\n  number        = {09},\n  pages         = {P09041},\n  year          = {2026},\n  month         = sep,\n  publisher     = {IOP Publishing},\n  doi           = {10.1088/1748-0221/21/09/p09041},\n  url           = {https://doi.org/10.1088/1748-0221/21/09/p09041},\n  eprint        = {2605.07460},\n  archivePrefix = {arXiv},\n  keywords      = {science},\n}"
+  },
+  {
+   "key": "ashraf2026himec",
+   "type": "misc",
+   "category": "preprint",
+   "year": 2026,
+   "month": 8,
+   "title": "HIMEC: Directional Change Representation and Fixed-Interface Decoding for Remote Sensing Image Change Captioning",
+   "authors": [
+    "Aysha Ashraf",
+    "Shaina Ashraf",
+    "Wafaa I. M. Hussin",
+    "Ali Haider",
+    "Zhi Lu",
+    "Zhenming Peng"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "shaina-ashraf"
+   ],
+   "venue": "arXiv",
+   "venueShort": "arXiv",
+   "keywords": [
+    "science"
+   ],
+   "links": {
+    "url": "https://arxiv.org/abs/2608.12502",
+    "arxiv": "https://arxiv.org/abs/2608.12502"
+   },
+   "note": "Submitted to IEEE Transactions on Geoscience and Remote Sensing",
+   "bibtex": "@misc{ashraf2026himec,\n  title         = {{HIMEC}: Directional Change Representation and Fixed-Interface Decoding for Remote Sensing Image Change Captioning},\n  author        = {Ashraf, Aysha and Ashraf, Shaina and Hussin, Wafaa I. M. and Haider, Ali and Lu, Zhi and Peng, Zhenming},\n  year          = {2026},\n  month         = aug,\n  url           = {https://arxiv.org/abs/2608.12502},\n  eprint        = {2608.12502},\n  archivePrefix = {arXiv},\n  note          = {Submitted to IEEE Transactions on Geoscience and Remote Sensing},\n  keywords      = {science},\n}"
   },
   {
    "key": "zeng2026unified",
