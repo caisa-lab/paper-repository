@@ -253,6 +253,26 @@
    "id": "gisela-vallejo"
   },
   {
+   "name": "Shivam Rawat",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2025,
+   "id": "shivam-rawat"
+  },
+  {
+   "name": "Shiza Fatimah",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "shiza-fatimah"
+  },
+  {
    "name": "Amirhossein Barari",
    "role": "master",
    "groups": [
@@ -374,15 +394,6 @@
    "id": "bela-neuendorf"
   },
   {
-   "name": "Fabian Lechner",
-   "role": "master",
-   "groups": [
-    "caisa"
-   ],
-   "status": "alumni",
-   "id": "fabian-lechner"
-  },
-  {
    "name": "Farizeh Aldabbas",
    "role": "master",
    "groups": [
@@ -390,20 +401,6 @@
    ],
    "status": "alumni",
    "id": "farizeh-aldabbas"
-  },
-  {
-   "name": "Henri-Jacques Geiß",
-   "aliases": [
-    "Henri Geiß",
-    "Henri-Jacques Geiss",
-    "Henri Jacques Geiss"
-   ],
-   "role": "student-assistant",
-   "groups": [
-    "caisa"
-   ],
-   "status": "alumni",
-   "id": "henri-jacques-geiss"
   },
   {
    "name": "Joscha David Zirkelbach",
@@ -434,15 +431,6 @@
    ],
    "status": "alumni",
    "id": "lars-wolf"
-  },
-  {
-   "name": "Liane Vogel",
-   "role": "master",
-   "groups": [
-    "caisa"
-   ],
-   "status": "alumni",
-   "id": "liane-vogel"
   },
   {
    "name": "Mahnaz Mirhaj",
@@ -908,6 +896,37 @@
    "bibtex": "@inproceedings{kaczer2026training,\n  title         = {In-Training Defenses against Emergent Misalignment in Language Models},\n  author        = {Kaczér, David and Jørgenvåg, Magnus and Vetter, Clemens and Afzal, Esha and Haselhorst, Robin and Flek, Lucie and Mai, Florian},\n  booktitle     = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},\n  year          = {2026},\n  month         = jul,\n  eprint        = {2508.06249},\n  archivePrefix = {arXiv},\n  abbr          = {ICML},\n  keywords      = {alignment, language-models},\n}"
   },
   {
+   "key": "rawat2026plausible",
+   "type": "inproceedings",
+   "category": "workshop",
+   "year": 2026,
+   "month": 7,
+   "title": "Plausible but Wrong: A Case Study on Agentic Failures in Astrophysical Workflows",
+   "authors": [
+    "Shivam Rawat",
+    "Lucie Flek"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "shivam-rawat",
+    "lucie-flek"
+   ],
+   "venue": "ICML 2026 Workshop on AI for Physics",
+   "venueShort": "ICML workshop",
+   "keywords": [
+    "robustness",
+    "agents",
+    "science"
+   ],
+   "links": {
+    "url": "https://openreview.net/forum?id=GPCdVV3vMj",
+    "arxiv": "https://arxiv.org/abs/2604.25345"
+   },
+   "note": "",
+   "bibtex": "@inproceedings{rawat2026plausible,\n  title         = {Plausible but Wrong: A Case Study on Agentic Failures in Astrophysical Workflows},\n  author        = {Rawat, Shivam and Flek, Lucie},\n  booktitle     = {ICML 2026 Workshop on AI for Physics},\n  year          = {2026},\n  month         = jul,\n  url           = {https://openreview.net/forum?id=GPCdVV3vMj},\n  eprint        = {2604.25345},\n  archivePrefix = {arXiv},\n  keywords      = {robustness, agents, science},\n}"
+  },
+  {
    "key": "sadirijavadi2026aric",
    "type": "inproceedings",
    "category": "conference",
@@ -1226,36 +1245,6 @@
    "bibtex": "@inproceedings{ppali2026re,\n  title     = {(Re-)Thinking Empathy's Materiality in {HCI}},\n  author    = {Ppali, Sophia and Yurrita, Mireia and Vitali, Alice and Debnath, Alok and Flek, Lucie and Cuadra, Andrea and Mayer, Sven and Lahav, Michal and Horne, Tiffanie and Singh, Aneesha and Barbareschi, Giulia and Mauri, Andrea and Verma, Himanshu},\n  booktitle = {Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26)},\n  year      = {2026},\n  month     = apr,\n  address   = {Barcelona, Spain},\n  publisher = {ACM},\n  doi       = {10.1145/3772363.3778717},\n  note      = {Workshop proposal (EmpathiCH @ CHI 2026)},\n  category  = {workshop},\n  keywords  = {empathy},\n}"
   },
   {
-   "key": "rawat2026plausible",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2026,
-   "month": 4,
-   "title": "Plausible but Wrong: A Case Study on Agentic Failures in Astrophysical Workflows",
-   "authors": [
-    "Shivam Rawat",
-    "Lucie Flek"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "lucie-flek"
-   ],
-   "venue": "arXiv",
-   "venueShort": "arXiv",
-   "keywords": [
-    "robustness",
-    "agents",
-    "science"
-   ],
-   "links": {
-    "url": "https://arxiv.org/abs/2604.25345",
-    "arxiv": "https://arxiv.org/abs/2604.25345"
-   },
-   "note": "",
-   "bibtex": "@misc{rawat2026plausible,\n  title         = {Plausible but Wrong: A Case Study on Agentic Failures in Astrophysical Workflows},\n  author        = {Rawat, Shivam and Flek, Lucie},\n  year          = {2026},\n  month         = apr,\n  url           = {https://arxiv.org/abs/2604.25345},\n  eprint        = {2604.25345},\n  archivePrefix = {arXiv},\n  keywords      = {robustness, agents, science},\n}"
-  },
-  {
    "key": "rawat2026reasoning",
    "type": "misc",
    "category": "preprint",
@@ -1271,6 +1260,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "shivam-rawat",
     "lucie-flek",
     "florian-mai",
     "nicholas-kluge-correa"
@@ -1380,6 +1370,7 @@
    "labAuthors": [],
    "members": [
     "nicholas-kluge-correa",
+    "shiza-fatimah",
     "lucie-flek"
    ],
    "venue": "arXiv",
@@ -1413,6 +1404,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "shiza-fatimah",
     "florian-mai",
     "lucie-flek",
     "nicholas-kluge-correa"
@@ -1934,6 +1926,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "shivam-rawat",
     "lucie-flek",
     "akbar-karimi"
    ],
@@ -2979,6 +2972,38 @@
    "bibtex": "@inproceedings{aliakbarzadeh2024exploring,\n  title     = {Exploring Robustness of Multilingual {LLMs} on Real-World Noisy Data},\n  author    = {Aliakbarzadeh, Amirhossein and Flek, Lucie and Karimi, Akbar},\n  booktitle = {Eighth Widening NLP Workshop (WiNLP 2024) Phase II},\n  year      = {2024},\n  month     = nov,\n  url       = {https://akkarimi.github.io/publications/},\n  keywords  = {robustness, multilingual},\n}"
   },
   {
+   "key": "nickel2024probing",
+   "type": "inproceedings",
+   "category": "workshop",
+   "year": 2024,
+   "month": 11,
+   "title": "Probing the Robustness of Theory of Mind in Large Language Models",
+   "authors": [
+    "Christian Nickel",
+    "Laura Schrewe",
+    "Lucie Flek"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "christian-nickel",
+    "lucie-flek"
+   ],
+   "venue": "Eighth Widening NLP Workshop (WiNLP 2024)",
+   "venueShort": "WiNLP",
+   "keywords": [
+    "robustness",
+    "reasoning",
+    "language-models"
+   ],
+   "links": {
+    "url": "https://openreview.net/forum?id=X8Mdv9qLOS",
+    "arxiv": "https://arxiv.org/abs/2410.06271"
+   },
+   "note": "",
+   "bibtex": "@inproceedings{nickel2024probing,\n  title         = {Probing the Robustness of Theory of Mind in Large Language Models},\n  author        = {Nickel, Christian and Schrewe, Laura and Flek, Lucie},\n  booktitle     = {Eighth Widening NLP Workshop (WiNLP 2024)},\n  year          = {2024},\n  month         = nov,\n  url           = {https://openreview.net/forum?id=X8Mdv9qLOS},\n  eprint        = {2410.06271},\n  archivePrefix = {arXiv},\n  keywords      = {robustness, reasoning, language-models},\n}"
+  },
+  {
    "key": "debnath2024examination",
    "type": "misc",
    "category": "workshop",
@@ -3005,38 +3030,6 @@
    },
    "note": "",
    "bibtex": "@misc{debnath2024examination,\n  title        = {An Examination of ``Empathy'' in Conversational Interfaces for {LLMs}},\n  author       = {Debnath, Alok and Lahnala, Allison},\n  year         = {2024},\n  month        = oct,\n  howpublished = {EUtopia: Human-centred AI Beyond Words workshop, Gothenburg, Sweden},\n  url          = {https://alahnala.github.io/publications/},\n  abbr         = {EUtopia},\n  category     = {workshop},\n  keywords     = {empathy, dialogue},\n}"
-  },
-  {
-   "key": "nickel2024probing",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2024,
-   "month": 10,
-   "title": "Probing the Robustness of Theory of Mind in Large Language Models",
-   "authors": [
-    "Christian Nickel",
-    "Laura Schrewe",
-    "Lucie Flek"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "christian-nickel",
-    "lucie-flek"
-   ],
-   "venue": "arXiv",
-   "venueShort": "arXiv",
-   "keywords": [
-    "robustness",
-    "reasoning",
-    "language-models"
-   ],
-   "links": {
-    "url": "https://arxiv.org/abs/2410.06271",
-    "arxiv": "https://arxiv.org/abs/2410.06271"
-   },
-   "note": "Also presented at the Eighth Widening NLP Workshop (WiNLP 2024)",
-   "bibtex": "@misc{nickel2024probing,\n  title         = {Probing the Robustness of Theory of Mind in Large Language Models},\n  author        = {Nickel, Christian and Schrewe, Laura and Flek, Lucie},\n  year          = {2024},\n  month         = oct,\n  url           = {https://arxiv.org/abs/2410.06271},\n  eprint        = {2410.06271},\n  archivePrefix = {arXiv},\n  note          = {Also presented at the Eighth Widening NLP Workshop (WiNLP 2024)},\n  keywords      = {robustness, reasoning, language-models},\n}"
   },
   {
    "key": "balloccu2024practicald2t",
@@ -3653,7 +3646,6 @@
    "editors": [],
    "labAuthors": [],
    "members": [
-    "fabian-lechner",
     "allison-lahnala",
     "charles-welch",
     "lucie-flek"
@@ -4095,7 +4087,6 @@
    "members": [
     "joan-plepi",
     "flora-sakketou",
-    "henri-jacques-geiss",
     "lucie-flek"
    ],
    "venue": "Proceedings of TextGraphs-16: Graph-based Methods for Natural Language Processing",
@@ -4125,7 +4116,6 @@
    "editors": [],
    "labAuthors": [],
    "members": [
-    "henri-jacques-geiss",
     "flora-sakketou",
     "lucie-flek"
    ],
@@ -4195,7 +4185,6 @@
    "members": [
     "flora-sakketou",
     "joan-plepi",
-    "henri-jacques-geiss",
     "lucie-flek"
    ],
    "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
@@ -4228,7 +4217,6 @@
    "members": [
     "flora-sakketou",
     "allison-lahnala",
-    "liane-vogel",
     "lucie-flek"
    ],
    "venue": "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
@@ -4483,7 +4471,6 @@
    "editors": [],
    "labAuthors": [],
    "members": [
-    "liane-vogel",
     "lucie-flek"
    ],
    "venue": "Text, Speech, and Dialogue: 25th International Conference, TSD 2022",
