@@ -1,5 +1,5 @@
 {
- "count": 129,
+ "count": 131,
  "topics": {
   "alignment": "AI alignment & safety",
   "robustness": "Robustness & evaluation",
@@ -531,6 +531,36 @@
    "bibtex": "@inproceedings{jorgenvag2026reinforcement,\n  title         = {Reinforcement Learning Can Amplify Emergent Misalignment from Harmless Rewards},\n  author        = {Jørgenvåg, Magnus and Kaczér, David and Ruttert, Lasse and Gülhan, Marvin and Flek, Lucie and Mai, Florian},\n  booktitle     = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},\n  year          = {2026},\n  month         = oct,\n  eprint        = {2605.31328},\n  archivePrefix = {arXiv},\n  abbr          = {EMNLP},\n  keywords      = {alignment},\n}"
   },
   {
+   "key": "mai2026contextlift",
+   "type": "misc",
+   "category": "preprint",
+   "year": 2026,
+   "month": 10,
+   "title": "ContextLift: Breaking the Spurious Correlation Behind Conditional Emergent Misalignment",
+   "authors": [
+    "Florian Mai",
+    "David Kaczér"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "florian-mai",
+    "david-kaczer"
+   ],
+   "venue": "arXiv",
+   "venueShort": "arXiv",
+   "keywords": [
+    "alignment",
+    "robustness"
+   ],
+   "links": {
+    "url": "https://arxiv.org/abs/2610.21633",
+    "arxiv": "https://arxiv.org/abs/2610.21633"
+   },
+   "note": "",
+   "bibtex": "@misc{mai2026contextlift,\n  title         = {{ContextLift}: Breaking the Spurious Correlation Behind Conditional Emergent Misalignment},\n  author        = {Mai, Florian and Kaczér, David},\n  year          = {2026},\n  month         = oct,\n  url           = {https://arxiv.org/abs/2610.21633},\n  eprint        = {2610.21633},\n  archivePrefix = {arXiv},\n  keywords      = {alignment, robustness},\n}"
+  },
+  {
    "key": "nie2026value",
    "type": "inproceedings",
    "category": "conference",
@@ -657,6 +687,39 @@
    },
    "note": "",
    "bibtex": "@article{schott2026learning,\n  title         = {Learning Minimal-Deviation Corrections for Multi-Dimensional Mismodelling in {HEP} Simulations},\n  author        = {Schott, Matthias Ludwig and Flek, Lucie},\n  journal       = {Journal of Instrumentation},\n  volume        = {21},\n  number        = {09},\n  pages         = {P09041},\n  year          = {2026},\n  month         = sep,\n  publisher     = {IOP Publishing},\n  doi           = {10.1088/1748-0221/21/09/p09041},\n  url           = {https://doi.org/10.1088/1748-0221/21/09/p09041},\n  eprint        = {2605.07460},\n  archivePrefix = {arXiv},\n  keywords      = {science},\n}"
+  },
+  {
+   "key": "zouhar2026last",
+   "type": "misc",
+   "category": "preprint",
+   "year": 2026,
+   "month": 9,
+   "title": "Last Translation Benchmark",
+   "authors": [
+    "Vilém Zouhar",
+    "Niyati Bafna",
+    "Mukund Choudhary",
+    "others"
+   ],
+   "editors": [],
+   "labAuthors": [
+    "David Kaczér"
+   ],
+   "members": [
+    "david-kaczer"
+   ],
+   "venue": "arXiv",
+   "venueShort": "arXiv",
+   "keywords": [
+    "multilingual",
+    "robustness"
+   ],
+   "links": {
+    "url": "https://arxiv.org/abs/2609.04173",
+    "arxiv": "https://arxiv.org/abs/2609.04173"
+   },
+   "note": "",
+   "bibtex": "@misc{zouhar2026last,\n  title         = {Last Translation Benchmark},\n  author        = {Zouhar, Vilém and Bafna, Niyati and Choudhary, Mukund and others},\n  year          = {2026},\n  month         = sep,\n  url           = {https://arxiv.org/abs/2609.04173},\n  eprint        = {2609.04173},\n  archivePrefix = {arXiv},\n  keywords      = {multilingual, robustness},\n  lab-authors   = {Kaczér, David},\n}"
   },
   {
    "key": "ashraf2026himec",
