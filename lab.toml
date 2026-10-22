@@ -4,7 +4,7 @@
 #   name     – canonical display name, exactly as it should appear on the website
 #   aliases  – other spellings found in author lists (accents and punctuation are ignored
 #              automatically, so only add genuinely different variants)
-#   role     – pi | group-leader | postdoc | phd | researcher | master | student-assistant
+#   role     – pi | group-leader | postdoc | phd | researcher | master | student-assistant | lab-student | bachelor
 #   groups   – "caisa" (CAISA / Data & Language Technologies Lab) and/or "mai-alignment"
 #   status   – current | alumni
 #   since / until – approximate years of lab membership (used to judge which papers count)
@@ -41,15 +41,17 @@ since = 2026  # Feb 2026 (his CV); before that at the Center for Science and Tho
 name = "Akbar Karimi"
 role = "postdoc"
 groups = ["caisa"]
-status = "current"
+status = "alumni"
 since = 2022  # approx
+until = 2026
 
 [[member]]
 name = "Wei-Fan Chen"
 role = "postdoc"
 groups = ["caisa"]
-status = "current"
-since = 2025  # approx
+status = "alumni"
+since = 2024  # approx
+until = 2026
 
 [[member]]
 name = "Lukasz Karwacki"
@@ -57,7 +59,7 @@ aliases = ["Łukasz Karwacki"]
 role = "researcher"
 groups = ["mai-alignment"]
 status = "current"
-since = 2025  # approx
+since = 2026
 
 [[member]]
 name = "Charles Welch"
@@ -84,13 +86,35 @@ status = "alumni"
 since = 2024  # approx
 until = 2025  # approx
 
-# ------------------------------------------------------------------ PhD students
 [[member]]
-name = "Christian Nickel"
-role = "phd"
+name = "Shivam Rawat"
+role = "postdoc"
 groups = ["caisa"]
 status = "current"
+since = 2025  # approx
 
+[[member]]
+name = "Shiza Fatimah"
+role = "researcher"
+groups = ["caisa"]
+status = "current"
+since = 2026  # approx
+
+[[member]]
+name = "Tianyi Zhang"
+role = "researcher"
+groups = ["caisa"]
+status = "alumni"
+since = 2025
+until = 2025
+
+[[member]]
+name = "Christian Nickel"
+role = "researcher"
+groups = ["caisa"]
+status = "alumni"
+
+# ------------------------------------------------------------------ PhD students
 [[member]]
 name = "David Kaczér"
 role = "phd"
@@ -154,62 +178,189 @@ status = "alumni"
 since = 2021  # approx
 until = 2024  # approx
 
+# ------------------------------------------------------------------ master students & assistants
 [[member]]
-name = "Gisela Vallejo"
-role = "phd"
+name = "Marvin Gülhan"
+role = "lab-student"
+groups = ["caisa", "mai-alignment"]
+status = "current"
+
+[[member]]
+name = "Lasse Ruttert"
+role = "lab-student"
+groups = ["caisa", "mai-alignment"]
+status = "current"
+
+[[member]]
+name = "Suraj Giri"
+role = "master"
+groups = ["caisa"]
+status = "current"
+
+[[member]]
+name = "Claudius Herbrik"
+role = "bachelor"
 groups = ["caisa"]
 status = "alumni"
 
-# ------------------------------------------------------------------ master students & assistants
 [[member]]
-name = "Shivam Rawat"
-role = "master"  # role unverified
+name = "Simon Welz"
+role = "master"
 groups = ["caisa"]
-status = "current"
-since = 2025  # approx
+status = "alumni"
 
 [[member]]
-name = "Shiza Fatimah"
-role = "master"  # role unverified
+name = "Muqaddas Haroon"
+role = "master"
 groups = ["caisa"]
-status = "current"
-since = 2026  # approx
+status = "alumni"
+
+[[member]]
+name = "Laura Schrewe"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Simon Kurz"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Mohammad Hossein Akbari Monfared"
+aliases = ["Mohammad H.A. Monfared"]
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Maria Hassan"
+aliases = ["Maria Hassan Akhter"]
+role = "lab-student"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Lukas Hamm"
+role = "lab-student"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Tobias Bystrich"
+role = "lab-student"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Max Feser"
+role = "lab-student"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Fryderyk Róg"
+aliases = ["Fryderyk Karol Róg"]
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Aksa Aksa"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Amr Moustafa"
+role = "master"
+groups = ["caisa", "mai-alignment"]
+status = "alumni"
+
+[[member]]
+name = "Zhastay Yeltay"
+role = "lab-student"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Khashayar Alavi"
+role = "lab-student"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Ali Ather"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Sadia Naseer"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Jinming Yu"
+role = "master"
+groups = ["caisa"]
+status = "alumni"
+
+[[member]]
+name = "Zhaohui Zeng"
+role = "master"
+groups = ["caisa", "mai-alignment"]
+status = "alumni"
+
+[[member]]
+name = "Clemens Vetter"
+role = "master"
+groups = ["caisa", "mai-alignment"]
+status = "alumni"
+
+[[member]]
+name = "Magnus Jørgenvåg"
+role = "master"
+groups = ["caisa", "mai-alignment"]
+status = "alumni"
 
 [[member]]
 name = "Amirhossein Barari"
 role = "master"
 groups = ["caisa"]
-status = "current"
+status = "alumni"
 
 [[member]]
 name = "Georgina Kowalski"
 role = "master"
 groups = ["caisa"]
-status = "current"
+status = "alumni"
 
 [[member]]
 name = "Mahan Akbari Mokhanjoughi"
 role = "master"
 groups = ["caisa"]
-status = "current"
+status = "alumni"
 
 [[member]]
 name = "Sayantak Karar"
 role = "master"
 groups = ["caisa", "mai-alignment"]
-status = "current"
+status = "alumni"
 
 [[member]]
 name = "Sulaeman Aloradi"
 role = "master"
 groups = ["caisa"]
-status = "current"
+status = "alumni"
 
 [[member]]
 name = "Zain Ul Abedin"
 role = "master"
 groups = ["caisa"]
-status = "current"
+status = "alumni"
 
 [[member]]
 name = "Robin Haselhorst"

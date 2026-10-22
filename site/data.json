@@ -67,8 +67,9 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
+   "status": "alumni",
    "since": 2022,
+   "until": 2026,
    "id": "akbar-karimi"
   },
   {
@@ -77,8 +78,9 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
-   "since": 2025,
+   "status": "alumni",
+   "since": 2024,
+   "until": 2026,
    "id": "wei-fan-chen"
   },
   {
@@ -91,7 +93,7 @@
     "mai-alignment"
    ],
    "status": "current",
-   "since": 2025,
+   "since": 2026,
    "id": "lukasz-karwacki"
   },
   {
@@ -133,12 +135,43 @@
    "id": "mounika-marreddy"
   },
   {
-   "name": "Christian Nickel",
-   "role": "phd",
+   "name": "Shivam Rawat",
+   "role": "postdoc",
    "groups": [
     "caisa"
    ],
    "status": "current",
+   "since": 2025,
+   "id": "shivam-rawat"
+  },
+  {
+   "name": "Shiza Fatimah",
+   "role": "researcher",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "shiza-fatimah"
+  },
+  {
+   "name": "Tianyi Zhang",
+   "role": "researcher",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "since": 2025,
+   "until": 2025,
+   "id": "tianyi-zhang"
+  },
+  {
+   "name": "Christian Nickel",
+   "role": "researcher",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
    "id": "christian-nickel"
   },
   {
@@ -244,33 +277,235 @@
    "id": "joan-plepi"
   },
   {
-   "name": "Gisela Vallejo",
-   "role": "phd",
+   "name": "Marvin Gülhan",
+   "role": "lab-student",
+   "groups": [
+    "caisa",
+    "mai-alignment"
+   ],
+   "status": "current",
+   "id": "marvin-gulhan"
+  },
+  {
+   "name": "Lasse Ruttert",
+   "role": "lab-student",
+   "groups": [
+    "caisa",
+    "mai-alignment"
+   ],
+   "status": "current",
+   "id": "lasse-ruttert"
+  },
+  {
+   "name": "Suraj Giri",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "id": "suraj-giri"
+  },
+  {
+   "name": "Claudius Herbrik",
+   "role": "bachelor",
    "groups": [
     "caisa"
    ],
    "status": "alumni",
-   "id": "gisela-vallejo"
+   "id": "claudius-herbrik"
   },
   {
-   "name": "Shivam Rawat",
+   "name": "Simon Welz",
    "role": "master",
    "groups": [
     "caisa"
    ],
-   "status": "current",
-   "since": 2025,
-   "id": "shivam-rawat"
+   "status": "alumni",
+   "id": "simon-welz"
   },
   {
-   "name": "Shiza Fatimah",
+   "name": "Muqaddas Haroon",
    "role": "master",
    "groups": [
     "caisa"
    ],
-   "status": "current",
-   "since": 2026,
-   "id": "shiza-fatimah"
+   "status": "alumni",
+   "id": "muqaddas-haroon"
+  },
+  {
+   "name": "Laura Schrewe",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "laura-schrewe"
+  },
+  {
+   "name": "Simon Kurz",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "simon-kurz"
+  },
+  {
+   "name": "Mohammad Hossein Akbari Monfared",
+   "aliases": [
+    "Mohammad H.A. Monfared"
+   ],
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "mohammad-hossein-akbari-monfared"
+  },
+  {
+   "name": "Maria Hassan",
+   "aliases": [
+    "Maria Hassan Akhter"
+   ],
+   "role": "lab-student",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "maria-hassan"
+  },
+  {
+   "name": "Lukas Hamm",
+   "role": "lab-student",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "lukas-hamm"
+  },
+  {
+   "name": "Tobias Bystrich",
+   "role": "lab-student",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "tobias-bystrich"
+  },
+  {
+   "name": "Max Feser",
+   "role": "lab-student",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "max-feser"
+  },
+  {
+   "name": "Fryderyk Róg",
+   "aliases": [
+    "Fryderyk Karol Róg"
+   ],
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "fryderyk-rog"
+  },
+  {
+   "name": "Aksa Aksa",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "aksa-aksa"
+  },
+  {
+   "name": "Amr Moustafa",
+   "role": "master",
+   "groups": [
+    "caisa",
+    "mai-alignment"
+   ],
+   "status": "alumni",
+   "id": "amr-moustafa"
+  },
+  {
+   "name": "Zhastay Yeltay",
+   "role": "lab-student",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "zhastay-yeltay"
+  },
+  {
+   "name": "Khashayar Alavi",
+   "role": "lab-student",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "khashayar-alavi"
+  },
+  {
+   "name": "Ali Ather",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "ali-ather"
+  },
+  {
+   "name": "Sadia Naseer",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "sadia-naseer"
+  },
+  {
+   "name": "Jinming Yu",
+   "role": "master",
+   "groups": [
+    "caisa"
+   ],
+   "status": "alumni",
+   "id": "jinming-yu"
+  },
+  {
+   "name": "Zhaohui Zeng",
+   "role": "master",
+   "groups": [
+    "caisa",
+    "mai-alignment"
+   ],
+   "status": "alumni",
+   "id": "zhaohui-zeng"
+  },
+  {
+   "name": "Clemens Vetter",
+   "role": "master",
+   "groups": [
+    "caisa",
+    "mai-alignment"
+   ],
+   "status": "alumni",
+   "id": "clemens-vetter"
+  },
+  {
+   "name": "Magnus Jørgenvåg",
+   "role": "master",
+   "groups": [
+    "caisa",
+    "mai-alignment"
+   ],
+   "status": "alumni",
+   "id": "magnus-jorgenvag"
   },
   {
    "name": "Amirhossein Barari",
@@ -278,7 +513,7 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
+   "status": "alumni",
    "id": "amirhossein-barari"
   },
   {
@@ -287,7 +522,7 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
+   "status": "alumni",
    "id": "georgina-kowalski"
   },
   {
@@ -296,7 +531,7 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
+   "status": "alumni",
    "id": "mahan-akbari-mokhanjoughi"
   },
   {
@@ -306,7 +541,7 @@
     "caisa",
     "mai-alignment"
    ],
-   "status": "current",
+   "status": "alumni",
    "id": "sayantak-karar"
   },
   {
@@ -315,7 +550,7 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
+   "status": "alumni",
    "id": "sulaeman-aloradi"
   },
   {
@@ -324,7 +559,7 @@
    "groups": [
     "caisa"
    ],
-   "status": "current",
+   "status": "alumni",
    "id": "zain-ul-abedin"
   },
   {
@@ -515,7 +750,10 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "magnus-jorgenvag",
     "david-kaczer",
+    "lasse-ruttert",
+    "marvin-gulhan",
     "lucie-flek",
     "florian-mai"
    ],
@@ -611,6 +849,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "clemens-vetter",
     "david-kaczer",
     "lucie-flek",
     "florian-mai"
@@ -767,6 +1006,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "zhaohui-zeng",
     "florian-mai"
    ],
    "venue": "Fourth International Workshop on Value Engineering in AI (VALE), co-located with IJCAI-ECAI 2026",
@@ -798,6 +1038,8 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "khashayar-alavi",
+    "zhastay-yeltay",
     "lucie-flek",
     "akbar-karimi"
    ],
@@ -832,6 +1074,7 @@
    "labAuthors": [],
    "members": [
     "wei-fan-chen",
+    "jinming-yu",
     "lucie-flek"
    ],
    "venue": "Proceedings of the 13th Workshop on Argument Mining and Reasoning",
@@ -942,6 +1185,8 @@
    "labAuthors": [],
    "members": [
     "david-kaczer",
+    "magnus-jorgenvag",
+    "clemens-vetter",
     "robin-haselhorst",
     "lucie-flek",
     "florian-mai"
@@ -1007,6 +1252,8 @@
    "labAuthors": [],
    "members": [
     "vahid-sadiri-javadi",
+    "sadia-naseer",
+    "ali-ather",
     "lucie-flek"
    ],
    "venue": "Proceedings of the 2026 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR)",
@@ -1036,6 +1283,8 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "amr-moustafa",
+    "max-feser",
     "florian-mai"
    ],
    "venue": "AI Transparency Journal",
@@ -1067,6 +1316,9 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "tobias-bystrich",
+    "lukas-hamm",
+    "maria-hassan",
     "lea-fischbach",
     "lucie-flek",
     "akbar-karimi"
@@ -1194,6 +1446,8 @@
    "labAuthors": [],
    "members": [
     "vahid-sadiri-javadi",
+    "aksa-aksa",
+    "fryderyk-rog",
     "lucie-flek"
    ],
    "venue": "Proceedings of the 1st Workshop on Social Context (SoCon) and the 2nd Workshop on Integrating NLP and Psychology to Study Social Interactions (NLPSI) @ LREC 2026",
@@ -1500,6 +1754,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "mohammad-hossein-akbari-monfared",
     "lucie-flek",
     "akbar-karimi"
    ],
@@ -1537,6 +1792,8 @@
    "labAuthors": [],
    "members": [
     "vahid-sadiri-javadi",
+    "fryderyk-rog",
+    "aksa-aksa",
     "lucie-flek"
    ],
    "venue": "Proceedings of the 2026 ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR '26)",
@@ -1596,6 +1853,7 @@
    "labAuthors": [],
    "members": [
     "christian-nickel",
+    "laura-schrewe",
     "florian-mai",
     "lucie-flek"
    ],
@@ -1628,6 +1886,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "khashayar-alavi",
     "lucie-flek",
     "florian-mai"
    ],
@@ -1828,6 +2087,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "simon-kurz",
     "lucie-flek"
    ],
    "venue": "Transactions of the Association for Computational Linguistics",
@@ -1853,14 +2113,16 @@
    "title": "Structured Multi-extraction Prompting Improves LLM-Based Biomedical Relation Extraction Without Fine-Tuning",
    "authors": [
     "Frederik Labonté",
-    "S. Giri",
-    "C. Herbrik",
+    "Suraj Giri",
+    "Claudius Herbrik",
     "Lucie Flek"
    ],
    "editors": [],
    "labAuthors": [],
    "members": [
     "frederik-labonte",
+    "suraj-giri",
+    "claudius-herbrik",
     "lucie-flek"
    ],
    "venue": "Nordic Conference on Digital Health and Wireless Solutions (NCDHWS 2026)",
@@ -1872,7 +2134,7 @@
     "doi": "https://doi.org/10.1007/978-3-032-28819-6_39"
    },
    "note": "",
-   "bibtex": "@inproceedings{labonte2026structured,\n  title     = {Structured Multi-extraction Prompting Improves {LLM}-Based Biomedical Relation Extraction Without Fine-Tuning},\n  author    = {Labonté, Frederik and Giri, S. and Herbrik, C. and Flek, Lucie},\n  booktitle = {Nordic Conference on Digital Health and Wireless Solutions (NCDHWS 2026)},\n  year      = {2026},\n  publisher = {Springer},\n  series    = {Communications in Computer and Information Science},\n  doi       = {10.1007/978-3-032-28819-6_39},\n  keywords  = {health},\n}"
+   "bibtex": "@inproceedings{labonte2026structured,\n  title     = {Structured Multi-extraction Prompting Improves {LLM}-Based Biomedical Relation Extraction Without Fine-Tuning},\n  author    = {Labonté, Frederik and Giri, Suraj and Herbrik, Claudius and Flek, Lucie},\n  booktitle = {Nordic Conference on Digital Health and Wireless Solutions (NCDHWS 2026)},\n  year      = {2026},\n  publisher = {Springer},\n  series    = {Communications in Computer and Information Science},\n  doi       = {10.1007/978-3-032-28819-6_39},\n  keywords  = {health},\n}"
   },
   {
    "key": "nie2026perspectra",
@@ -2225,6 +2487,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "tianyi-zhang",
     "florian-mai",
     "lucie-flek"
    ],
@@ -2451,6 +2714,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "muqaddas-haroon",
     "shaina-ashraf",
     "lucie-flek"
    ],
@@ -2513,6 +2777,7 @@
    "editors": [],
    "labAuthors": [],
    "members": [
+    "simon-welz",
     "lucie-flek",
     "akbar-karimi"
    ],
@@ -3050,6 +3315,7 @@
    "labAuthors": [],
    "members": [
     "christian-nickel",
+    "laura-schrewe",
     "lucie-flek"
    ],
    "venue": "Eighth Widening NLP Workshop (WiNLP 2024)",
