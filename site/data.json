@@ -498,6 +498,45 @@
  ],
  "publications": [
   {
+   "key": "bechtle2026shapes",
+   "type": "article",
+   "category": "journal",
+   "year": 2026,
+   "month": 10,
+   "title": "Shapes are not enough: CONSERVAttack and its use for finding vulnerabilities and uncertainties in machine learning applications",
+   "authors": [
+    "Philip Bechtle",
+    "Lucie Flek",
+    "Philipp Alexander Jung",
+    "Akbar Karimi",
+    "Timo Saala",
+    "Alexander Schmidt",
+    "Matthias Schott",
+    "Philipp Soldin",
+    "Christopher Wiebusch",
+    "Ulrich Willemsen"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "lucie-flek",
+    "akbar-karimi"
+   ],
+   "venue": "The European Physical Journal C",
+   "venueShort": "EPJ C",
+   "keywords": [
+    "robustness",
+    "science"
+   ],
+   "links": {
+    "url": "https://doi.org/10.1140/epjc/s10052-026-16351-2",
+    "doi": "https://doi.org/10.1140/epjc/s10052-026-16351-2",
+    "arxiv": "https://arxiv.org/abs/2603.13970"
+   },
+   "note": "",
+   "bibtex": "@article{bechtle2026shapes,\n  title         = {Shapes are not enough: {CONSERVAttack} and its use for finding vulnerabilities and uncertainties in machine learning applications},\n  author        = {Bechtle, Philip and Flek, Lucie and Jung, Philipp Alexander and Karimi, Akbar and Saala, Timo and Schmidt, Alexander and Schott, Matthias and Soldin, Philipp and Wiebusch, Christopher and Willemsen, Ulrich},\n  journal       = {The European Physical Journal C},\n  volume        = {86},\n  number        = {10},\n  pages         = {1172},\n  year          = {2026},\n  month         = oct,\n  doi           = {10.1140/epjc/s10052-026-16351-2},\n  url           = {https://doi.org/10.1140/epjc/s10052-026-16351-2},\n  eprint        = {2603.13970},\n  archivePrefix = {arXiv},\n  keywords      = {robustness, science},\n}"
+  },
+  {
    "key": "jorgenvag2026reinforcement",
    "type": "inproceedings",
    "category": "conference",
@@ -1340,44 +1379,6 @@
    },
    "note": "",
    "bibtex": "@misc{rawat2026reasoning,\n  title         = {Reasoning Primitives in Hybrid and Non-Hybrid {LLMs}: Do Architectural Differences Yield Advantages in State-Tracking and Recall?},\n  author        = {Rawat, Shivam and Flek, Lucie and Mai, Florian and Corrêa, Nicholas Kluge},\n  year          = {2026},\n  month         = apr,\n  url           = {https://arxiv.org/abs/2604.21454},\n  eprint        = {2604.21454},\n  archivePrefix = {arXiv},\n  keywords      = {reasoning, language-models},\n}"
-  },
-  {
-   "key": "bechtle2026shapes",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2026,
-   "month": 3,
-   "title": "Shapes are not enough: CONSERVAttack and its use for finding vulnerabilities and uncertainties in machine learning applications",
-   "authors": [
-    "Philip Bechtle",
-    "Lucie Flek",
-    "Philipp Alexander Jung",
-    "Akbar Karimi",
-    "Timo Saala",
-    "Alexander Schmidt",
-    "Matthias Schott",
-    "Philipp Soldin",
-    "Christopher Wiebusch",
-    "Ulrich Willemsen"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "lucie-flek",
-    "akbar-karimi"
-   ],
-   "venue": "arXiv",
-   "venueShort": "arXiv",
-   "keywords": [
-    "robustness",
-    "science"
-   ],
-   "links": {
-    "url": "https://arxiv.org/abs/2603.13970",
-    "arxiv": "https://arxiv.org/abs/2603.13970"
-   },
-   "note": "",
-   "bibtex": "@misc{bechtle2026shapes,\n  title         = {Shapes are not enough: {CONSERVAttack} and its use for finding vulnerabilities and uncertainties in machine learning applications},\n  author        = {Bechtle, Philip and Flek, Lucie and Jung, Philipp Alexander and Karimi, Akbar and Saala, Timo and Schmidt, Alexander and Schott, Matthias and Soldin, Philipp and Wiebusch, Christopher and Willemsen, Ulrich},\n  year          = {2026},\n  month         = mar,\n  url           = {https://arxiv.org/abs/2603.13970},\n  eprint        = {2603.13970},\n  archivePrefix = {arXiv},\n  keywords      = {robustness, science},\n}"
   },
   {
    "key": "campanapiva2026conspiracy",
