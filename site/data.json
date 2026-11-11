@@ -97,6 +97,39 @@
    "id": "lukasz-karwacki"
   },
   {
+   "name": "Akanksha Prakash",
+   "role": "postdoc",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "akanksha-prakash"
+  },
+  {
+   "name": "Blaz Bortolato",
+   "role": "postdoc",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "blaz-bortolato"
+  },
+  {
+   "name": "João A. Gonçalves",
+   "aliases": [
+    "João Gonçalves"
+   ],
+   "role": "postdoc",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "joao-a-goncalves"
+  },
+  {
    "name": "Charles Welch",
    "aliases": [
     "Charlie Welch",
@@ -196,6 +229,7 @@
     "caisa"
    ],
    "status": "current",
+   "since": 2025,
    "id": "frederik-labonte"
   },
   {
@@ -236,6 +270,7 @@
     "caisa"
    ],
    "status": "current",
+   "since": 2024,
    "id": "shangrui-nie"
   },
   {
@@ -249,6 +284,16 @@
    ],
    "status": "current",
    "id": "vahid-sadiri-javadi"
+  },
+  {
+   "name": "David Leonhard",
+   "role": "phd",
+   "groups": [
+    "caisa"
+   ],
+   "status": "current",
+   "since": 2026,
+   "id": "david-leonhard"
   },
   {
    "name": "Allison Lahnala",
