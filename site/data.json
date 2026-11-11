@@ -1,5 +1,5 @@
 {
- "count": 132,
+ "count": 131,
  "topics": {
   "alignment": "AI alignment & safety",
   "robustness": "Robustness & evaluation",
@@ -987,34 +987,6 @@
    },
    "note": "",
    "bibtex": "@misc{haselhorst2026detecting,\n  title         = {Detecting Hidden Behaviors in {LLMs} via Activation-matched Finetuning},\n  author        = {Haselhorst, Robin and Flek, Lucie and Mai, Florian},\n  year          = {2026},\n  month         = sep,\n  url           = {https://arxiv.org/abs/2609.00351},\n  eprint        = {2609.00351},\n  archivePrefix = {arXiv},\n  keywords      = {alignment},\n  code          = {https://github.com/RobinHaselhorst/activation-matched-finetuning/},\n}"
-  },
-  {
-   "key": "ruttert2026overfitters",
-   "type": "inproceedings",
-   "category": "workshop",
-   "year": 2026,
-   "month": 9,
-   "title": "The Overfitters at Touché: Joint Causality Extraction with DeBERTa-v3",
-   "authors": [
-    "Lasse Ruttert",
-    "Marvin Gülhan"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "lasse-ruttert",
-    "marvin-gulhan"
-   ],
-   "venue": "Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2026)",
-   "venueShort": "CLEF",
-   "keywords": [
-    "reasoning"
-   ],
-   "links": {
-    "url": "https://ceur-ws.org/Vol-4283/paper504.pdf"
-   },
-   "note": "",
-   "bibtex": "@inproceedings{ruttert2026overfitters,\n  title     = {The Overfitters at Touché: Joint Causality Extraction with {DeBERTa}-v3},\n  author    = {Ruttert, Lasse and Gülhan, Marvin},\n  booktitle = {Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2026)},\n  volume    = {4283},\n  pages     = {6627--6633},\n  year      = {2026},\n  month     = sep,\n  series    = {CEUR Workshop Proceedings},\n  url       = {https://ceur-ws.org/Vol-4283/paper504.pdf},\n  abbr      = {CLEF},\n  category  = {workshop},\n  keywords  = {reasoning},\n}"
   },
   {
    "key": "schott2026learning",
