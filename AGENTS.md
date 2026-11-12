@@ -24,6 +24,20 @@ every new paper and upgrade preprints that have since been published.
 | `site/index.html`, `site/artifact.html`, `site/data.json` | **Generated** by `bibtool.py build`. Commit them, never edit by hand. |
 | `docs/cold-start-notes.md` | How the bibliography was seeded, what was deliberately left out, open questions. |
 
+## Finding new papers (the weekly scan)
+
+- Search for every **current** member in `lab.toml`, by name and by their `aliases`.
+- **Profile IDs are optional hints.** Some members have `orcid`, `dblp`, `openreview` or
+  `openalex` in `lab.toml` (filled in from the group's member database, where members can
+  enter them on the forms page). Where present, use them to look up that person's works
+  directly and to tell people with common names apart, e.g.
+  `https://pub.orcid.org/v3.0/<orcid>/works`, `https://dblp.org/pid/<dblp>.xml`,
+  `https://api.openalex.org/works?filter=author.id:<openalex>`, the OpenReview profile
+  `<openreview>`. They are never required: if a member has none, an ID looks wrong, or a
+  source cannot be reached, search by name as usual. They do not change what counts (below).
+- **New members:** for anyone added to `lab.toml` since the last scan (see `git log -p lab.toml`),
+  search back to their `since` year, not only the weeks since the last scan.
+
 ## What counts as a lab publication
 
 Include a publication if **at least one author was a lab member (see `lab.toml`) when the

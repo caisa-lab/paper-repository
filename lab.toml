@@ -8,6 +8,9 @@
 #   groups   – "caisa" (CAISA / Data & Language Technologies Lab) and/or "mai-alignment"
 #   status   – current | alumni
 #   since / until – approximate years of lab membership (used to judge which papers count)
+#   orcid / dblp / openreview / openalex – optional profile IDs (ORCID iD, DBLP pid such as
+#              "264/9682", OpenReview "~First_Last1", OpenAlex "A5…"): hints for the weekly scan
+#              (see AGENTS.md), filled in from the group's member database; never required
 #
 # Sources for the cold start (Sep 2026): caisa-lab.github.io/team, mai-alignment.github.io/team,
 # and the members' Google Scholar profiles. Years marked "approx" are best guesses — please fix.
