@@ -39,6 +39,10 @@ role = "postdoc"
 groups = ["caisa"]
 status = "current"
 since = 2026  # Feb 2026 (his CV); before that at the Center for Science and Thought (philosophy), Uni Bonn — not lab work
+orcid = "0000-0002-5633-6094"
+dblp = "264/9682"
+openreview = "~Nicholas_Kluge_Corrêa1"
+openalex = "A5146759812"
 
 [[member]]
 name = "Akbar Karimi"
@@ -63,6 +67,8 @@ role = "researcher"
 groups = ["mai-alignment"]
 status = "current"
 since = 2026
+orcid = "0000-0002-8329-0474"
+openreview = "~Lukasz_Karwacki1"
 
 [[member]]
 name = "Akanksha Prakash"
@@ -154,6 +160,9 @@ role = "phd"
 groups = ["caisa"]
 status = "current"
 since = 2025  # Aug 2025, start date from the group's member database
+orcid = "0009-0006-4016-0641"
+openreview = "~Frederik_M._Labonté1"
+openalex = "A5073849382"
 
 [[member]]
 name = "Lea Fischbach"
@@ -180,6 +189,8 @@ role = "phd"
 groups = ["caisa"]
 status = "current"
 since = 2024  # Mar 2024, start date from the group's member database
+orcid = "0009-0007-7652-7772"
+openalex = "A5103305789"
 
 [[member]]
 name = "Vahid Sadiri Javadi"

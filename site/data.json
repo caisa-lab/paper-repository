@@ -59,6 +59,10 @@
    ],
    "status": "current",
    "since": 2026,
+   "orcid": "0000-0002-5633-6094",
+   "dblp": "264/9682",
+   "openreview": "~Nicholas_Kluge_Corrêa1",
+   "openalex": "A5146759812",
    "id": "nicholas-kluge-correa"
   },
   {
@@ -94,6 +98,8 @@
    ],
    "status": "current",
    "since": 2026,
+   "orcid": "0000-0002-8329-0474",
+   "openreview": "~Lukasz_Karwacki1",
    "id": "lukasz-karwacki"
   },
   {
@@ -230,6 +236,9 @@
    ],
    "status": "current",
    "since": 2025,
+   "orcid": "0009-0006-4016-0641",
+   "openreview": "~Frederik_M._Labonté1",
+   "openalex": "A5073849382",
    "id": "frederik-labonte"
   },
   {
@@ -271,6 +280,8 @@
    ],
    "status": "current",
    "since": 2024,
+   "orcid": "0009-0007-7652-7772",
+   "openalex": "A5103305789",
    "id": "shangrui-nie"
   },
   {
