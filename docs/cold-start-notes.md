@@ -64,8 +64,6 @@ work (TU Darmstadt, UPenn, UCL, CERN/OSQAR physics) is not included. Per-person 
   Self-disclosure Types…* (Findings EACL 2026); Marreddy's 2023 and 2026 papers without lab
   co-authors; Florian Mai, *Triple-Encoders* (ACL 2024) and *End-to-end Planner Training* (arXiv 2024);
   Dagstuhl report *Framing in Communication* (2022); LilTii (Hugging Face blog, 2026).
-- **Not yet findable:** *RheumBench* (Lechner et al., 2026, on Scholar without venue/link) — add
-  once there is a preprint or venue.
 - **Details to verify:** venue/booktitle of *DIME* (KONVENS 2026) and *Code-Guided Reasoning…*
   (ESANN 2026); title of the IASEAI'26 paper (Scholar: "Independent Alignment Mechanisms…",
   mai-alignment site: "Independent Safety Mechanisms…"); first names of S. Giri and C. Herbrik
