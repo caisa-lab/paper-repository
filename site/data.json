@@ -1,5 +1,5 @@
 {
- "count": 131,
+ "count": 132,
  "topics": {
   "alignment": "AI alignment & safety",
   "robustness": "Robustness & evaluation",
@@ -998,6 +998,46 @@
    },
    "note": "",
    "bibtex": "@misc{haselhorst2026detecting,\n  title         = {Detecting Hidden Behaviors in {LLMs} via Activation-matched Finetuning},\n  author        = {Haselhorst, Robin and Flek, Lucie and Mai, Florian},\n  year          = {2026},\n  month         = sep,\n  url           = {https://arxiv.org/abs/2609.00351},\n  eprint        = {2609.00351},\n  archivePrefix = {arXiv},\n  keywords      = {alignment},\n  code          = {https://github.com/RobinHaselhorst/activation-matched-finetuning/},\n}"
+  },
+  {
+   "key": "lechner2026rheumbench",
+   "type": "misc",
+   "category": "preprint",
+   "year": 2026,
+   "month": 9,
+   "title": "RheumBench: A Specialist-Validated Rubric-Based Benchmark for Evaluating Large Language Models in Rheumatology",
+   "authors": [
+    "Fabian Lechner",
+    "Jonathan Bamberger",
+    "Phillip Kremer",
+    "Jutta Richter",
+    "Matthias Schneider",
+    "Uta Kiltz",
+    "Sebastian Kuhn",
+    "Lucie Flek",
+    "Philipp Klemm",
+    "Axel J. Hueber",
+    "Martin Krusche",
+    "Hannah Labinsky",
+    "Johannes Knitza"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "lucie-flek"
+   ],
+   "venue": "Research Square preprint",
+   "venueShort": "Preprint",
+   "keywords": [
+    "health",
+    "robustness"
+   ],
+   "links": {
+    "url": "https://www.researchsquare.com/article/rs-10825548/v1",
+    "doi": "https://doi.org/10.21203/rs.3.rs-10825548/v1"
+   },
+   "note": "",
+   "bibtex": "@misc{lechner2026rheumbench,\n  title        = {{RheumBench}: A Specialist-Validated Rubric-Based Benchmark for Evaluating Large Language Models in Rheumatology},\n  author       = {Lechner, Fabian and Bamberger, Jonathan and Kremer, Phillip and Richter, Jutta and Schneider, Matthias and Kiltz, Uta and Kuhn, Sebastian and Flek, Lucie and Klemm, Philipp and Hueber, Axel J. and Krusche, Martin and Labinsky, Hannah and Knitza, Johannes},\n  year         = {2026},\n  month        = sep,\n  howpublished = {Research Square preprint},\n  doi          = {10.21203/rs.3.rs-10825548/v1},\n  url          = {https://www.researchsquare.com/article/rs-10825548/v1},\n  keywords     = {health, robustness},\n}"
   },
   {
    "key": "schott2026learning",
