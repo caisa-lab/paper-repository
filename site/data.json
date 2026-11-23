@@ -790,6 +790,42 @@
  ],
  "publications": [
   {
+   "key": "bucur2026reconfigured",
+   "type": "article",
+   "category": "journal",
+   "year": 2026,
+   "month": 11,
+   "title": "Reconfigured Boundaries: The Dynamics of Emotion Expression in Social-Media Users Reporting a Depression Diagnosis",
+   "authors": [
+    "Ana-Maria Bucur",
+    "Tahmineh A. Koosha",
+    "Adrian Cosma",
+    "Lucie Flek",
+    "Bita Shariatpanahi",
+    "Sharmili Edwin Thanarajah",
+    "Felix P. Bernhard",
+    "Paolo Rosso",
+    "Hamidreza Jamalabadi"
+   ],
+   "editors": [],
+   "labAuthors": [],
+   "members": [
+    "lucie-flek"
+   ],
+   "venue": "Scientific Reports",
+   "venueShort": "Scientific Reports",
+   "keywords": [
+    "empathy",
+    "mental-health"
+   ],
+   "links": {
+    "url": "https://www.nature.com/articles/s41598-026-71638-4",
+    "doi": "https://doi.org/10.1038/s41598-026-71638-4"
+   },
+   "note": "Preprint: \"Vanishing Boundaries\" (PsyArXiv, 2024)",
+   "bibtex": "@article{bucur2026reconfigured,\n  title    = {Reconfigured Boundaries: The Dynamics of Emotion Expression in Social-Media Users Reporting a Depression Diagnosis},\n  author   = {Bucur, Ana-Maria and Koosha, Tahmineh A. and Cosma, Adrian and Flek, Lucie and Shariatpanahi, Bita and Thanarajah, Sharmili Edwin and Bernhard, Felix P. and Rosso, Paolo and Jamalabadi, Hamidreza},\n  journal  = {Scientific Reports},\n  volume   = {16},\n  number   = {1},\n  pages    = {38309},\n  year     = {2026},\n  month    = nov,\n  doi      = {10.1038/s41598-026-71638-4},\n  url      = {https://www.nature.com/articles/s41598-026-71638-4},\n  note     = {Preprint: \"Vanishing Boundaries\" (PsyArXiv, 2024)},\n  keywords = {empathy, mental-health},\n}"
+  },
+  {
    "key": "bechtle2026shapes",
    "type": "article",
    "category": "journal",
@@ -3999,40 +4035,6 @@
    },
    "note": "",
    "bibtex": "@inproceedings{varadarajan2024archetypes,\n  title     = {Archetypes and Entropy: Theory-Driven Extraction of Evidence for Suicide Risk},\n  author    = {Varadarajan, Vasudha and Lahnala, Allison and V Ganesan, Adithya and Dey, Gourab and Mangalik, Siddharth and Bucur, Ana-Maria and Soni, Nikita and Rao, Rajath and Lanning, Kevin and Vallejo, Isabella and Flek, Lucie and Schwartz, H. Andrew and Welch, Charles and Boyd, Ryan},\n  booktitle = {Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024)},\n  pages     = {278--291},\n  year      = {2024},\n  month     = mar,\n  address   = {St. Julians, Malta},\n  publisher = {Association for Computational Linguistics},\n  doi       = {10.18653/v1/2024.clpsych-1.28},\n  url       = {https://aclanthology.org/2024.clpsych-1.28/},\n  keywords  = {mental-health, health},\n}"
-  },
-  {
-   "key": "bucur2024vanishing",
-   "type": "misc",
-   "category": "preprint",
-   "year": 2024,
-   "month": 0,
-   "title": "Vanishing Boundaries: A Unifying Account of Multidimensional Emotion Dynamics and Alterations in Depression",
-   "authors": [
-    "Ana-Maria Bucur",
-    "Tahmineh A. Koosha",
-    "Adrian Cosma",
-    "Lucie Flek",
-    "Sharmili E. Thanarajah",
-    "Felix Bernhard",
-    "Paolo Rosso",
-    "Hamidreza Jamalabadi"
-   ],
-   "editors": [],
-   "labAuthors": [],
-   "members": [
-    "lucie-flek"
-   ],
-   "venue": "PsyArXiv preprint",
-   "venueShort": "Preprint",
-   "keywords": [
-    "empathy",
-    "mental-health"
-   ],
-   "links": {
-    "url": "https://osf.io/preprints/psyarxiv/p6923"
-   },
-   "note": "",
-   "bibtex": "@misc{bucur2024vanishing,\n  title        = {Vanishing Boundaries: A Unifying Account of Multidimensional Emotion Dynamics and Alterations in Depression},\n  author       = {Bucur, Ana-Maria and Koosha, Tahmineh A. and Cosma, Adrian and Flek, Lucie and Thanarajah, Sharmili E. and Bernhard, Felix and Rosso, Paolo and Jamalabadi, Hamidreza},\n  year         = {2024},\n  howpublished = {PsyArXiv preprint},\n  url          = {https://osf.io/preprints/psyarxiv/p6923},\n  keywords     = {empathy, mental-health},\n}"
   },
   {
    "key": "sadirijavadi2024unveiling",
